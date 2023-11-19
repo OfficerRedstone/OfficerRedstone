@@ -27,15 +27,9 @@ guithub.com
 
 
 #domain endings blocker
-*.cn
-*.ru
-*.zip
-
-
-#Regex
-^(.+[_.-])?telemetry[_.-]
-^(.+[_.-])?ad[_.-]
-^(.+[_.-])?porn[_.-]
+.cn
+.ru
+.zip
 
 
 #deepin Linux
