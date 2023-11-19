@@ -1,0 +1,4 @@
+#nintendo Error Reporting
+receive-lp1.er.srv.nintendo.net
+#nintendo Facebook Image Posting
+web-lp1.share.srv.nintendo.net
