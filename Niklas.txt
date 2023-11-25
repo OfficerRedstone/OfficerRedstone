@@ -102,6 +102,8 @@ watson.events.data.microsoft.com
 r.bing.com
 gateway-outlook.bingviz.com
 settings-win.data.microsoft.com
+#microsoft Copilot
+default.exp-tas.com
 
 
 #smartlive
@@ -141,6 +143,7 @@ scontent-fra3-1.xx.fbcdn.net
 scontent-fra5-2.xx.fbcdn.net
 scontent-fra3-2.xx.fbcdn.net
 scontent-fra5-1.xx.fbcdn.net
+b-www.facebook.com
 edge-mqtt.facebook.com
 chat-e2ee-mini.facebook.com
 z-p42-chat-e2ee-ig.facebook.com
@@ -343,3 +346,9 @@ delight-vr.com
 statt-park.de
 dl8.me
 mein-organizer.de
+hp-ir.glb.samsungmilkradio.com
+ipa.elev.io
+tnc16-useast1a.byteoversea.com
+ssdk-sg.pangle.io
+54b16de4c302.cdn4.forter.com
+samsungnewsapi.picks.my
