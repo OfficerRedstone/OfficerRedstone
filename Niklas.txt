@@ -59,6 +59,7 @@ edge.ads.twitch.tv
 d3aqoihi2n8ty8.cloudfront.net
 ipv6.unagi-na.amazon.com
 unagi-eu.amazon.com
+vod-secure.twitch.tv
 
 
 #spotify
