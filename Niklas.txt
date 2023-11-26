@@ -26,6 +26,15 @@ zap-hosting.co
 guithub.com
 
 
+#tiktok
+tiktok.com
+tiktokv.com
+tiktokcdn.com
+byteoversea.com
+*.tiktok.com
+mssdk-va.tiktok.com
+webcast.tiktok.com
+
 #domain endings blocker
 .cn
 .ru
@@ -352,3 +361,5 @@ tnc16-useast1a.byteoversea.com
 ssdk-sg.pangle.io
 54b16de4c302.cdn4.forter.com
 samsungnewsapi.picks.my
+cdn-ws.turnto.com
+widgets.turnto.com
