@@ -31,7 +31,6 @@ tiktok.com
 tiktokv.com
 tiktokcdn.com
 byteoversea.com
-*.tiktok.com
 mssdk-va.tiktok.com
 webcast.tiktok.com
 
