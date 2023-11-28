@@ -119,7 +119,7 @@ default.exp-tas.com
 d1qre8p2imniok.cdn5th.com
 euimagesd2h2yqnfpu4gl5.cdn5th.com
 tpm.tuyaeu.com
-a1.tuyaeu.com
+#a1.tuyaeu.com wird benoetigt das App funktioniert
 qin.tuyaeu.com
 m1.tuyaeu.com
 
