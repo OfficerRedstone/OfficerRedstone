@@ -54,6 +54,8 @@ _https._tcp.com-store-packages.uniontech.com
 _https._tcp.community-packages.deepin.com
 packages.deepin.com
 _https._tcp.pro-driver-packages.uniontech.com
+#appstore.uniontech.com Appstore
+#home-store-img.uniontech.com Appstore
 
 
 #amazon-Firetv+twitch
