@@ -5,3 +5,6 @@
 # Fetch the latest version of this file: https://raw.githubusercontent.com/OfficerRedstone/niklas/main/whitelist.txt?token=
 # Project home page: https://github.com/OfficerRedstone/niklas/edit/main/whitelist.txt
 # ===============================================================
+
+
+burning-series.io
