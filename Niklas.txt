@@ -124,6 +124,8 @@ tpm.tuyaeu.com
 #a1.tuyaeu.com wird benoetigt das App funktioniert
 qin.tuyaeu.com
 m1.tuyaeu.com
+sailormoon.tuyaeu.com
+
 
 #ledband
 wifij01us.magichue.net
