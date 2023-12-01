@@ -1,15 +1,15 @@
 # Title: OfficerRedstone/niklas
 #
-# Date: 28 November 2023 22:12 (UTC)
+# Date: 1 Dezember 2023 10:13 (UTC)
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/OfficerRedstone/niklas/main/Niklas.txt?token=GHSAT0AAAAAACKQAWUNLLNKIUQKREMPMXSKZK2DI4A
 # Project home page: https://github.com/OfficerRedstone/niklas/edit/main/Niklas.txt
 # ===============================================================
 
-
-#nintendo Error Reporting
+#Nintendo
+#Error Reporting
 receive-lp1.er.srv.nintendo.net
-#nintendo Facebook Image Posting
+#Facebook Image Posting
 web-lp1.share.srv.nintendo.net
 
 
@@ -70,6 +70,13 @@ d3aqoihi2n8ty8.cloudfront.net
 ipv6.unagi-na.amazon.com
 unagi-eu.amazon.com
 vod-secure.twitch.tv
+spade.twitch.tv
+countess.twitch.tv
+identity.browserapps.amazon.de
+c.amazon-adsystem.com
+aax-eu.amazon-adsystem.com
+app.link
+device-metrics-us.amazon.com
 
 
 #spotify
@@ -114,6 +121,8 @@ gateway-outlook.bingviz.com
 settings-win.data.microsoft.com
 #microsoft Copilot
 default.exp-tas.com
+nexus.officeapps.live.com
+hubblecontent.osi.office.net
 
 
 #smartlive
@@ -133,6 +142,61 @@ wifij01eu.magichue.net
 ra8816eu02.magichue.net
 
 
+#Huawaii
+grs.dbankcloud.com
+event.dbankcdn.com
+push.hicloud.com
+pushtrs1.push.hicloud.com
+pushtrs2.push.hicloud.com
+pushtrs3.push.hicloud.com
+pushtrs4.push.hicloud.com
+pushtrs5.push.hicloud.com
+pushtrs6.push.hicloud.com
+pushtrs7.push.hicloud.com
+logbak.hicloud.com
+
+
+# EA (Origin)
+adsrv.ea.com
+
+
+#ubisoft
+data.ubi.com
+
+
+#Epic Games
+metrics.ol.epicgames.com
+tracking.epicgames.com
+
+
+#Nvidia
+gfwsl.geforce.com 
+gfe.geforce.com 
+telemetry.nvidia.com 
+gfe.nvidia.com 
+telemetry.gfe.nvidia.com 
+events.gfe.nvidia.com
+ssl.google-analytics.com
+nvidia.tt.omtrdc.net
+services.gfe.nvidia.com
+
+
+#Samsung.Handy
+analytics.samsungknox.com
+bigdata.ssp.samsung.com
+collector.samsungknowledge.com
+shealth-analytics-api.samsunghealth.com
+log-1.samsungacr.com
+log-2.samsungacr.com
+log-3.samsungacr.com
+log.internetat.tv
+aibixby.com
+mgmt.aibixby.com
+market-euw1.mgmt.aibixby.com
+
+
+
+
 d2wcz8sc48ztgm.cloudfront.net
 ddacn6pr5v0tl.cloudfront.net
 a10b454d7ed324992ab2551d6b59ea458.profile.sfo53-p5.cloudfront.net
@@ -146,19 +210,9 @@ notifier.win-rar.com
 facebook.com
 m.facebook.com
 fbcdn.net
-star.c10r.facebook.com
 de-de.facebook.com
 meta.com
-static-fra5-2.xx.fbcdn.net
-external-fra5-2.xx.fbcdn.net
-scontent-fra3-1.xx.fbcdn.net
-scontent-fra5-2.xx.fbcdn.net
-scontent-fra3-2.xx.fbcdn.net
-scontent-fra5-1.xx.fbcdn.net
-b-www.facebook.com
 edge-mqtt.facebook.com
-chat-e2ee-mini.facebook.com
-z-p42-chat-e2ee-ig.facebook.com
 lookaside.facebook.com
 api.facebook.com
 b-api.facebook.com
@@ -166,8 +220,6 @@ b-graph.facebook.com
 gateway.facebook.com
 fb.watch
 web.facebook.com
-z-p4-graph.facebook.com
-apps-455676461606571.apps.fbsbx.com
 portal.fb.com
 static.xx.fbcdn.net
 axelspringer.com
@@ -246,6 +298,8 @@ adrevenue.appsflyersdk.com
 ka.images.icas.io
 gateway.kleinanzeigen.de
 usercentrics.eu
+api.usercentrics.eu
+aggregator.service.usercentrics.eu
 location.services.mozilla.com
 sentry.io
 sqrt-5041.de
@@ -255,7 +309,6 @@ stripe.network
 algolia.net
 insided.com
 am-api.taboola.com
-hicloud.com
 redirector.googlevideo.com
 cloud.huawei.com
 wpad.de
@@ -366,3 +419,21 @@ ssdk-sg.pangle.io
 samsungnewsapi.picks.my
 cdn-ws.turnto.com
 widgets.turnto.com
+static.hotjar.com
+rum-static.oingdom.net
+incoming.telemetry.mozilla.org
+ma.macropinch.com
+skslm.swiftkey.net
+android-appboot.netflix.com
+ichnaea.netflix.com
+customerevents.netflix.com
+hello.myfonts.net
+probe.twitter.com
+aegis.trovo.live
+tdm.trovo.live
+rog-live-service.asus.com
+mymessage.asus.com
+statistik.kivbf.de
+stats.live-video.net
+player.stats.live-video.net
+
