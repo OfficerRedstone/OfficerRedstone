@@ -70,8 +70,6 @@ d3aqoihi2n8ty8.cloudfront.net
 ipv6.unagi-na.amazon.com
 unagi-eu.amazon.com
 vod-secure.twitch.tv
-spade.twitch.tv
-countess.twitch.tv
 identity.browserapps.amazon.de
 c.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
