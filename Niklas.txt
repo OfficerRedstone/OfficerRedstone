@@ -87,6 +87,28 @@ heads-fa.spotify.com
 bloodhound.spotify.com
 
 
+#Apple
+api-adservices.apple.com
+books-analytics-events.apple.com
+iadsdk.apple.com
+ca.iadsdk.apple.com
+cf.iadsdk.apple.com
+tr.iadsdk.apple.com
+metrics.apple.com
+notes-analytics-events.apple.com
+phonesubmissions.apple.com
+securemetrics.apple.com
+securemvt.apple.com
+stocks-analytics-events.apple.com
+supportmetrics.apple.com
+weather-analytics-events.apple.com
+xp.apple.com
+acfeedbackws.icloud.com
+feedbackws.icloud.com
+metrics.icloud.com
+metrics.mzstatic.com
+
+
 #microsoft
 bing.com
 video-akpcw-cdn-spotify-com.akamaized.net
