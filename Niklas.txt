@@ -50,7 +50,7 @@ geo.ads.brave.com
 static.ads.brave.com
 
 
-#domain endings blocker
+#Domain Endings blocker
 .cn
 .ru
 .zip
