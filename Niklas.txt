@@ -343,8 +343,8 @@ scpm.game-mode.net
 
 
 
-
-
+(\.|^)softonic\.com$
+(\.|^)malavida\.com$
 
 *.softonic.com
 *.malavida.com
