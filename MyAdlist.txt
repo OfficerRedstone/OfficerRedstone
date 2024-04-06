@@ -3,7 +3,7 @@
 # Date: 31 Marz 2024 17:30 (UTC)
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/OfficerRedstone/OfficerRedstone/main/MyAdlist.txt
-# Project home page: https://github.com/OfficerRedstone/niklas/edit/main/Niklas.txt
+# Project home page: https://github.com/OfficerRedstone/OfficerRedstone/blob/main/MyAdlist.txt
 # ===============================================================
 
 #Nintendo
