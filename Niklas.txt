@@ -608,3 +608,10 @@ mem.gfx.ms
 adobetarget.data.adobedc.net
 thinkappetitefeud.com
 laughingrecordinggossipy.com
+
+#korfo.org
+korfo.org
+powered-by-revidy.com
+a11ybar.com
+coinroad.io
+ulyces.media
