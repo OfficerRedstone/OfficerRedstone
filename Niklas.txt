@@ -114,6 +114,7 @@ k.pluto.tv
 device-metrics-us.amazon.com
 unagi-eu.amazon.com
 d21m0ezw6fosyw.cloudfront.net
+ffs-provisioner-config.amazon-dss.com
 
 
 #spotify
@@ -183,6 +184,13 @@ settings-win.data.microsoft.com
 default.exp-tas.com
 nexus.officeapps.live.com
 hubblecontent.osi.office.net
+nav-edge.smartscreen.microsoft.com
+edge-consumer-static.azureedge.net	
+c.s-microsoft.com
+go.microsoft.com
+part-0017.t-0009.t-msedge.net
+xpaywalletcdn.azureedge.net
+telem-edge.smartscreen.microsoft.com
 
 
 #smartlive
@@ -355,7 +363,8 @@ hazelmarks.com
 color-switch-38439805.firebaseio.com
 www.tenjin.io
 cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
-
+pat-viewer.com
+suivi.info
 
 
 d2wcz8sc48ztgm.cloudfront.net
@@ -594,3 +603,6 @@ statistik.kivbf.de
 stats.live-video.net
 player.stats.live-video.net
 annotationsincereexistence.com
+tm.v4.a.prd.aadg.trafficmanager.net
+mem.gfx.ms
+adobetarget.data.adobedc.net
