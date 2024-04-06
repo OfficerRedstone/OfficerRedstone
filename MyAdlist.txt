@@ -2,7 +2,7 @@
 #
 # Date: 31 Marz 2024 17:30 (UTC)
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/OfficerRedstone/niklas/main/Niklas.txt
+# Fetch the latest version of this file: https://raw.githubusercontent.com/OfficerRedstone/OfficerRedstone/main/MyAdlist.txt
 # Project home page: https://github.com/OfficerRedstone/niklas/edit/main/Niklas.txt
 # ===============================================================
 
