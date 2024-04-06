@@ -27,12 +27,28 @@ guithub.com
 
 
 #tiktok
+www.tiktok.com
 tiktok.com
 tiktokv.com
 tiktokcdn.com
+gts.byteoversea.net
+byteglb.com
 byteoversea.com
 mssdk-va.tiktok.com
 webcast.tiktok.com
+v16-webapp-prime.tiktok.com
+p16-sign-useast2a.tiktokcdn.com
+p16-sign-va.tiktokcdn.com
+us.tiktok.com
+web-i18n.tiktok.com
+web-va.tiktok.com
+starling.tiktokv.eu
+libraweb.tiktokw.eu
+p77-sg.tiktokcdn.com
+sf16-geckocdn.tiktokcdn.com
+sf16-sg.tiktokcdn.com
+tnc16-platform-useast2a.tiktokv.com
+bsync31-normal-useast2a.tiktokv.com
 
 
 #Browser
@@ -62,16 +78,6 @@ composer.opera-api.com
 bard.google.com
 gemini.google.com
 (\.|^)aibixby\.com$
-
-
-#tiktok
-tiktok.com
-tiktokv.com
-tiktokcdn.com
-byteoversea.com
-*.tiktok.com
-mssdk-va.tiktok.com
-webcast.tiktok.com
 
 
 #deepin Linux
