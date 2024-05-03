@@ -373,6 +373,7 @@ pat-viewer.com
 suivi.info
 
 
+locationhistory-pa.googleapis.com
 d2wcz8sc48ztgm.cloudfront.net
 ddacn6pr5v0tl.cloudfront.net
 a10b454d7ed324992ab2551d6b59ea458.profile.sfo53-p5.cloudfront.net
