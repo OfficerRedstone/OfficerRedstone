@@ -1,19 +1,27 @@
-# Title: OfficerRedstone
+# ===============================================================
+# Title: OfficerRedstone/hosts
+# Description: OfficerRedstone's Blocklist
 #
-# Date: 31 Marz 2024 17:30 (UTC)
+# Date: 03 October 2024 12:30:15 (UTC)
+# Number of unique domains: 544
+# Syntax: Domains (including possible subdomains)
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/OfficerRedstone/OfficerRedstone/main/MyAdlist.txt
-# Project home page: https://github.com/OfficerRedstone/OfficerRedstone/blob/main/MyAdlist.txt
+# Project releases: https://github.com/OfficerRedstone/OfficerRedstone
+#
 # ===============================================================
 
-#Nintendo
-#Error Reporting
+
+
+
+# Nintendo
+# Error Reporting
 receive-lp1.er.srv.nintendo.net
-#Facebook Image Posting
+# Facebook Image Posting
 web-lp1.share.srv.nintendo.net
 
 
-#fake
+# fake
 burning-series.io
 burning-series.net
 tlauncher.org
@@ -26,7 +34,7 @@ zap-hosting.co
 guithub.com
 
 
-#tiktok
+# tiktok
 www.tiktok.com
 tiktok.com
 tiktokv.com
@@ -51,7 +59,7 @@ tnc16-platform-useast2a.tiktokv.com
 bsync31-normal-useast2a.tiktokv.com
 
 
-#Browser
+ Browser
 exchange.opera.com
 weather.opera-api2.com
 cashback.opera.com
@@ -66,13 +74,13 @@ geo.ads.brave.com
 static.ads.brave.com
 
 
-#Domain Endings blocker
+ Domain Endings blocker
 .cn
 .ru
 .zip
 
 
-#KI
+ KI
 (\.|^)writesonic\.com$
 composer.opera-api.com
 bard.google.com
@@ -80,7 +88,7 @@ gemini.google.com
 (\.|^)aibixby\.com$
 
 
-#deepin Linux
+ deepin Linux
 detect.uniontech.com
 home.deepin.org
 avatar.cdn.deepin.com
@@ -93,11 +101,11 @@ _https._tcp.com-store-packages.uniontech.com
 _https._tcp.community-packages.deepin.com
 packages.deepin.com
 _https._tcp.pro-driver-packages.uniontech.com
-#appstore.uniontech.com Appstore
-#home-store-img.uniontech.com Appstore
+ appstore.uniontech.com Appstore
+ home-store-img.uniontech.com Appstore
 
 
-#amazon-Firetv+twitch
+ amazon-Firetv+twitch
 amazon-adsystem.com
 trck.pix.twitch.prod-eu.turntable.sonic.advertising.amazon.dev
 firetvcaptiveportal.com
@@ -123,17 +131,17 @@ d21m0ezw6fosyw.cloudfront.net
 ffs-provisioner-config.amazon-dss.com
 
 
-#spotify
+# spotify
 open.spotify.de
 adeventtrackermonitoring.spotify.com
 audio-sp-sea.spotifycdn.net
 scdnco.spotify.map.fastly.net
 heads-fa.spotify.com
-#api-partner.spotify.com
+# api-partner.spotify.com
 bloodhound.spotify.com
 
 
-#Apple
+# Apple
 api-adservices.apple.com
 books-analytics-events.apple.com
 iadsdk.apple.com
@@ -155,7 +163,7 @@ metrics.icloud.com
 metrics.mzstatic.com
 
 
-#microsoft
+# microsoft
 bing.com
 video-akpcw-cdn-spotify-com.akamaized.net
 fe2.update.microsoft.com.akadns.net
@@ -186,7 +194,7 @@ watson.events.data.microsoft.com
 r.bing.com
 gateway-outlook.bingviz.com
 settings-win.data.microsoft.com
-#microsoft Copilot
+# microsoft Copilot
 default.exp-tas.com
 nexus.officeapps.live.com
 hubblecontent.osi.office.net
@@ -199,24 +207,24 @@ xpaywalletcdn.azureedge.net
 telem-edge.smartscreen.microsoft.com
 
 
-#smartlive
+# smartlive
 d1qre8p2imniok.cdn5th.com
 euimagesd2h2yqnfpu4gl5.cdn5th.com
 tpm.tuyaeu.com
-#a1.tuyaeu.com wird benoetigt das App funktioniert
+# a1.tuyaeu.com wird benoetigt das App funktioniert
 qin.tuyaeu.com
 m1.tuyaeu.com
 sailormoon.tuyaeu.com
 
 
-#ledband
+# ledband
 wifij01us.magichue.net
 mqtteu.magichue.net
 wifij01eu.magichue.net
 ra8816eu02.magichue.net
 
 
-#Huawaii
+# Huawaii
 grs.dbankcloud.com
 event.dbankcdn.com
 push.hicloud.com
@@ -230,20 +238,20 @@ pushtrs7.push.hicloud.com
 logbak.hicloud.com
 
 
-# EA (Origin)
+# EA
 adsrv.ea.com
 
 
-#ubisoft
+# ubisoft
 data.ubi.com
 
 
-#Epic Games
+# Epic Games
 metrics.ol.epicgames.com
 tracking.epicgames.com
 
 
-#Nvidia
+# Nvidia
 gfwsl.geforce.com 
 gfe.geforce.com 
 telemetry.nvidia.com 
@@ -255,7 +263,7 @@ nvidia.tt.omtrdc.net
 services.gfe.nvidia.com
 
 
-#Samsung.Handy
+# Samsung.Handy
 analytics.samsungknox.com
 bigdata.ssp.samsung.com
 collector.samsungknowledge.com
@@ -269,7 +277,7 @@ log.internetat.tv
 aibixby.com
 mgmt.aibixby.com
 market-euw1.mgmt.aibixby.com
-#------------------------------
+
 samsungcloudsolution.com
 samsungcloudsolution.net
 pavv.co.kr
@@ -616,7 +624,7 @@ adobetarget.data.adobedc.net
 thinkappetitefeud.com
 laughingrecordinggossipy.com
 
-#korfo.org
+# korfo
 korfo.org
 powered-by-revidy.com
 a11ybar.com
