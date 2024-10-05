@@ -206,7 +206,13 @@ part-0017.t-0009.t-msedge.net
 xpaywalletcdn.azureedge.net
 telem-edge.smartscreen.microsoft.com
 
+#minecraft  1
+#api.minecraftservices.com
+#textures.minecraft.net
+#launchercontent.mojang.com
+#redstone-launcher.mojang.com
 
+#0
 # smartlive
 d1qre8p2imniok.cdn5th.com
 euimagesd2h2yqnfpu4gl5.cdn5th.com
