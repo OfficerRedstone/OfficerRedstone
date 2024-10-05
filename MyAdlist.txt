@@ -213,7 +213,6 @@ telem-edge.smartscreen.microsoft.com
 #redstone-launcher.mojang.com
 #sessionserver.mojang.com
 #launchermeta.mojang.com
-#data.chocolateminecraft.com
 #libraries.minecraft.net
 #pc.realms.minecraft.net
 #client.discovery.minecraft-services.net
