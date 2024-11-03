@@ -2,7 +2,7 @@
 # Title: OfficerRedstone/hosts
 # Description: OfficerRedstone's Blocklist
 #
-# Date: 03 October 2024 18:22 (UTC)
+# Date: 03 November 2024 10:44 (UTC)
 # Number of unique domains: 545
 # Syntax: Domains (including possible subdomains)
 #
@@ -59,7 +59,7 @@ tnc16-platform-useast2a.tiktokv.com
 bsync31-normal-useast2a.tiktokv.com
 
 
- Browser
+# Browser
 exchange.opera.com
 weather.opera-api2.com
 cashback.opera.com
@@ -74,13 +74,13 @@ geo.ads.brave.com
 static.ads.brave.com
 
 
- Domain Endings blocker
+# Domain Endings blocker
 .cn
 .ru
 .zip
 
 
- KI
+# KI
 (\.|^)writesonic\.com$
 composer.opera-api.com
 bard.google.com
@@ -88,7 +88,7 @@ gemini.google.com
 (\.|^)aibixby\.com$
 
 
- deepin Linux
+# deepin Linux
 detect.uniontech.com
 home.deepin.org
 avatar.cdn.deepin.com
@@ -105,7 +105,7 @@ _https._tcp.pro-driver-packages.uniontech.com
  home-store-img.uniontech.com Appstore
 
 
- amazon-Firetv+twitch
+# amazon-Firetv+twitch
 amazon-adsystem.com
 trck.pix.twitch.prod-eu.turntable.sonic.advertising.amazon.dev
 firetvcaptiveportal.com
@@ -218,7 +218,7 @@ telem-edge.smartscreen.microsoft.com
 #client.discovery.minecraft-services.net
 #authorization.franchise.minecraft-services.net
 #hopper.minecraft.net
-#entitlements.mktpl.minecraft-services.net	N
+#entitlements.mktpl.minecraft-services.net
 #payments.realms.minecraft-services.net
 
 # smartlive
@@ -644,6 +644,8 @@ coinroad.io
 ulyces.media
 network-n.com
 zomap.de
+cdn.iads.unity3d.com
+bug68c-launches.appsflyersdk.com
 infinity-c39.youboranqs01.com
 l97kzhmw13kmghrkuogppd3qpmgfa1730598649.nuid.nmrodam.com
 orchestrator-adtech-prod-joyn.t1p-adtech.aws.route71.net
