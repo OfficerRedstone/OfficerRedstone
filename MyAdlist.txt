@@ -395,8 +395,6 @@ pat-viewer.com
 suivi.info
 
 
-zomap.de
-infinity-c39.youboranqs01.com
 locationhistory-pa.googleapis.com
 d2wcz8sc48ztgm.cloudfront.net
 ddacn6pr5v0tl.cloudfront.net
@@ -639,10 +637,13 @@ mem.gfx.ms
 adobetarget.data.adobedc.net
 thinkappetitefeud.com
 laughingrecordinggossipy.com
-
 korfo.org
 powered-by-revidy.com
 a11ybar.com
 coinroad.io
 ulyces.media
 network-n.com
+zomap.de
+infinity-c39.youboranqs01.com
+l97kzhmw13kmghrkuogppd3qpmgfa1730598649.nuid.nmrodam.com
+orchestrator-adtech-prod-joyn.t1p-adtech.aws.route71.net
