@@ -2,8 +2,8 @@
 # Title: OfficerRedstone/hosts
 # Description: OfficerRedstone's Blocklist
 #
-# Date: 03 November 2024 10:44 (UTC)
-# Number of unique domains: 545
+# Date: 03 November 2024 11:06 (UTC)
+# Number of unique domains: 537
 # Syntax: Domains (including possible subdomains)
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/OfficerRedstone/OfficerRedstone/main/MyAdlist.txt
@@ -101,8 +101,10 @@ _https._tcp.com-store-packages.uniontech.com
 _https._tcp.community-packages.deepin.com
 packages.deepin.com
 _https._tcp.pro-driver-packages.uniontech.com
- appstore.uniontech.com Appstore
- home-store-img.uniontech.com Appstore
+# Appstore
+appstore.uniontech.com
+# Appstore
+home-store-img.uniontech.com
 
 
 # amazon-Firetv+twitch
@@ -376,12 +378,6 @@ pinning.secb2b.com
 api-diagmon.samsungdm.com
 scpm.game-mode.net
 
-
-
-
-
-(\.|^)softonic\.com$
-(\.|^)malavida\.com$
 
 *.softonic.com
 *.malavida.com
