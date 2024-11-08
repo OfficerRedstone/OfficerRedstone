@@ -2,8 +2,8 @@
 # Title: OfficerRedstone/hosts
 # Description: OfficerRedstone's Blocklist
 #
-# Date: 03 November 2024 11:06 (UTC)
-# Number of unique domains: 537
+# Date: 08 November 2024 21:59 (UTC)
+# Number of unique domains: 540
 # Syntax: Domains (including possible subdomains)
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/OfficerRedstone/OfficerRedstone/main/MyAdlist.txt
