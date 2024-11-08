@@ -141,6 +141,8 @@ scdnco.spotify.map.fastly.net
 heads-fa.spotify.com
 # api-partner.spotify.com
 bloodhound.spotify.com
+video-akpcw.spotifycdn.com
+aet.spotify.com
 
 
 # Apple
@@ -391,6 +393,7 @@ pat-viewer.com
 suivi.info
 
 
+privacy-proxy.usercentrics.eu
 locationhistory-pa.googleapis.com
 d2wcz8sc48ztgm.cloudfront.net
 ddacn6pr5v0tl.cloudfront.net
