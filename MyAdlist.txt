@@ -2,7 +2,7 @@
 # Title: OfficerRedstone/hosts
 # Description: OfficerRedstone's Blocklist
 #
-# Date: 08 November 2024 21:59 (UTC)
+# Date: 07 Februar 2025 21:33 (UTC)
 # Number of unique domains: 540
 # Syntax: Domains (including possible subdomains)
 #
@@ -394,6 +394,7 @@ suivi.info
 
 
 privacy-proxy.usercentrics.eu
+agma-analytics.de
 locationhistory-pa.googleapis.com
 d2wcz8sc48ztgm.cloudfront.net
 ddacn6pr5v0tl.cloudfront.net
