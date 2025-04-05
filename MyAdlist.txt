@@ -2,7 +2,7 @@
 # Title: OfficerRedstone/hosts
 # Description: OfficerRedstone's Blocklist
 #
-# Date: 07 Februar 2025 21:33 (UTC)
+# Date: 05 April 2025 20:59 (UTC)
 # Number of unique domains: 540
 # Syntax: Domains (including possible subdomains)
 #
