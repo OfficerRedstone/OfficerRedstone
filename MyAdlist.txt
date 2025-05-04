@@ -2,8 +2,7 @@
 # Title: OfficerRedstone/hosts
 # Description: OfficerRedstone's Blocklist
 #
-# Date: 05 April 2025 20:59 (UTC)
-# Number of unique domains: 540
+# Date: 04 Mai 2025 20:59 (UTC)
 # Syntax: Domains (including possible subdomains)
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/OfficerRedstone/OfficerRedstone/main/MyAdlist.txt
@@ -650,3 +649,5 @@ bug68c-launches.appsflyersdk.com
 infinity-c39.youboranqs01.com
 l97kzhmw13kmghrkuogppd3qpmgfa1730598649.nuid.nmrodam.com
 orchestrator-adtech-prod-joyn.t1p-adtech.aws.route71.net
+5mvqin-launches.appsflyersdk.com
+5mvqin-inapps.appsflyersdk.com
