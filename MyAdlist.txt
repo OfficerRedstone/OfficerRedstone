@@ -2,7 +2,7 @@
 # Title: OfficerRedstone/hosts
 # Description: OfficerRedstone's Blocklist
 #
-# Date: 04 Mai 2025 20:59 (UTC)
+# Date: 24 Mai 2025
 # Syntax: Domains (including possible subdomains)
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/OfficerRedstone/OfficerRedstone/main/MyAdlist.txt
@@ -242,6 +242,10 @@ wifij01eu.magichue.net
 ra8816eu02.magichue.net
 
 
+# Google
+chromesyncpasswords-pa.googleapis.com
+
+
 # Huawaii
 grs.dbankcloud.com
 event.dbankcdn.com
@@ -379,6 +383,9 @@ service.game-mode.net
 pinning.secb2b.com
 api-diagmon.samsungdm.com
 scpm.game-mode.net
+rtb.adgrx.com
+tvx.adgrx.com
+consent.tvping-agf.com
 
 
 *.softonic.com
@@ -393,6 +400,57 @@ pat-viewer.com
 suivi.info
 
 
+# HBBTV
+cdn.hbbtv.smartclip.net
+hbbtv-1.eurosport.com
+hbbtv-extern-fe01.sim-technik.de
+hbbtv-track.redbutton.de
+hbbtv.kabeleins.de
+hbbtv.prosieben.de
+hbbtv.qvc.de
+hbbtv.redbutton.de
+backend.redbutton.de
+longpolling.redbutton.de
+hbbtv.rtl.de
+hbbtv.rtl2.de
+hbbtv.sat1.de
+hbbtv.sixx.de
+hbbtv01p.anixe.net
+hbbtvapp.sonnenklar.tv
+scheduler.hbbtv.smartclip.net
+stats.hbbtv.smartclip.net
+hbbtv.superrtl.de
+p-hbbtv.superrtl.de
+cdn.digitaltext.rtl.de
+rtl-digitaltext.rtl-hbbtv.de
+wakadu-api.prod.rtl-hbbtv.de
+cdn.hbbtv.smartclip.net
+errors.hbbtv.smartclip.net
+scheduler.hbbtv.smartclip.net
+hbbtv.sport1.de
+hbbtv.servustv.com
+vox-digitaltext.rtl-hbbtv.de
+_hbbtv-ait._tcp.hbbtvopapps.org
+cdn.welt-ctv.com
+cdn.tvtelemetrie.de
+rtl-digitaltext.rtl-hbbtv.de
+wakadu-api.prod.rtl-hbbtv.de
+hbbtv-apps.redbutton.de
+prod-program.redbutton.de
+redbutton-adproxy-lb-prod.redbutton.de
+track.tvping.com
+deluxemusic.hbbtv.xadspoteffects.tv
+nickelodeon-at.gbucket.at
+de.container.enhanced.live
+artcom-ctv.com
+www.rtl2.de
+urfcgnbx.1bliq.io
+ses.3-t.uk
+
+
+cdn.tagdeliver.com
+uc.tagdeliver.com
+log.tagdeliver.com
 privacy-proxy.usercentrics.eu
 agma-analytics.de
 locationhistory-pa.googleapis.com
