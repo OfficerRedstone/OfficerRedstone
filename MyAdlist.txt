@@ -2,7 +2,7 @@
 # Title: OfficerRedstone/hosts
 # Description: OfficerRedstone's Blocklist
 #
-# Date: 24 Mai 2025
+# Date: 6 Juni 2025
 # Syntax: Domains (including possible subdomains)
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/OfficerRedstone/OfficerRedstone/main/MyAdlist.txt
@@ -448,6 +448,7 @@ urfcgnbx.1bliq.io
 ses.3-t.uk
 
 
+sb.adtidy.org
 cdn.tagdeliver.com
 uc.tagdeliver.com
 log.tagdeliver.com
