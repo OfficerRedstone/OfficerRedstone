@@ -710,3 +710,7 @@ l97kzhmw13kmghrkuogppd3qpmgfa1730598649.nuid.nmrodam.com
 orchestrator-adtech-prod-joyn.t1p-adtech.aws.route71.net
 5mvqin-launches.appsflyersdk.com
 5mvqin-inapps.appsflyersdk.com
+api.bidmachine.io
+track-eu-a.bidmachine.io
+www.optimizely.com
+static.clvads.com
