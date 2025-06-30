@@ -131,6 +131,9 @@ device-metrics-us.amazon.com
 unagi-eu.amazon.com
 d21m0ezw6fosyw.cloudfront.net
 ffs-provisioner-config.amazon-dss.com
+trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
+tungsten-service.prod.eu.adsqtungsten.a9.amazon.dev
+
 
 
 # spotify
@@ -209,6 +212,8 @@ go.microsoft.com
 part-0017.t-0009.t-msedge.net
 xpaywalletcdn.azureedge.net
 telem-edge.smartscreen.microsoft.com
+cxcs.microsoft.net
+client.wns.windows.com
 
 #minecraft
 #api.minecraftservices.com
@@ -398,6 +403,59 @@ www.tenjin.io
 cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
 pat-viewer.com
 suivi.info
+^([a-zA-Z0-9_-]+\.)*ingest\.us\.sentry\.io$
+x.blueduckredapple.com
+api.bidmachine.io
+logs.ads.vungle.com	
+pjgiyz-launches.appsflyersdk.com	
+lnbowh-launches.appsflyersdk.com
+sb.adtidy.org
+www.primis.tech
+video.primis.tech
+ww16.doood.re
+ogads-pa.clients6.google.com
+be4235.rcr32.ams02.cdn255.com
+www.nmrodam.com
+webstatic.hoyoverse.com
+eulatracking-public-service-prod06.ol.epicgames.com
+sdk-os-static.hoyoverse.com
+cashback-api-production.operacdn.com
+*.youboranqs01.com
+www.axprtbggl.com
+(\.|^)doubleverify\.com$
+vid-io-pdx.springserve.com
+d3p8zr0ffa9t17.cloudfront.net
+video.adsafeprotected.com
+sentry-relay.opera-api.com
+af.opera.com
+team.epccm19.com
+igggames.me
+repack-mechanics.com
+icrack-games.com
+torgamez.com
+skidrowreloadedcrack.com
+steamcrackedgames.com
+download-free-games.com
+freegamepick.net
+topgamepc.com
+freegamesdl.net
+api.qonversion.io
+fbprod.flipboard.com
+guce.advertising.com
+traffic.calldorado.com
+quantum4you.com
+duqggm-inapps.appsflyersdk.com
+mt3-v2-apple.amanotes.io
+api.revenuecat.com
+bcs.amanotes.net
+location.piserver.amanotes.net
+refinery.amanotes.io
+two.startperfectsolutions.com
+securedtrkjo.com
+topshopprices.com
+linksprf.com
+financeads.net
+solohostering.com
 
 
 # HBBTV
@@ -446,8 +504,6 @@ artcom-ctv.com
 www.rtl2.de
 urfcgnbx.1bliq.io
 ses.3-t.uk
-
-
 sb.adtidy.org
 cdn.tagdeliver.com
 uc.tagdeliver.com
