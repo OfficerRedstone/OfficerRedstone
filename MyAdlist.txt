@@ -456,6 +456,14 @@ topshopprices.com
 linksprf.com
 financeads.net
 solohostering.com
+pbc.agma-analytics.de
+fid.agkn.com
+event-ingestor.judy.pnap.aditude.cloud
+*.aditude.cloud
+geo-location.prebid.cloud
+lookaside-fallback.facebook.com
+edge-mqtt-fallback.facebook.com
+1625341327.rsc.cdn77.org
 
 
 # HBBTV
