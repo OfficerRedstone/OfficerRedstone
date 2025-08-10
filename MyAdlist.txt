@@ -2,7 +2,7 @@
 # Title: OfficerRedstone/hosts
 # Description: OfficerRedstone's Blocklist
 #
-# Date: 6 Juni 2025
+# Date: 10 August 2025
 # Syntax: Domains (including possible subdomains)
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/OfficerRedstone/OfficerRedstone/main/MyAdlist.txt
@@ -669,6 +669,8 @@ match.prod.bidr.io
 images.mediago.io
 lb.eu-1-id5-sync.com
 region1.google-analytics.com
+ep2.adtrafficquality.google
+ep1.adtrafficquality.google
 prod.tahoe-analytics.publishers.advertising.a2z.com
 usersync.gumgum.com
 m.deepintent.com
@@ -778,3 +780,4 @@ api.bidmachine.io
 track-eu-a.bidmachine.io
 www.optimizely.com
 static.clvads.com
+
