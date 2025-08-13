@@ -2,7 +2,7 @@
 # Title: OfficerRedstone/hosts
 # Description: OfficerRedstone's Blocklist
 #
-# Date: 10 August 2025
+# Date: 13 August 2025
 # Syntax: Domains (including possible subdomains)
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/OfficerRedstone/OfficerRedstone/main/MyAdlist.txt
@@ -32,6 +32,8 @@ zaphosting.com
 zap-hosting.co
 cine-to.com
 guithub.com
+bs-to.fun
+freedomphone.com
 
 
 # tiktok
@@ -780,4 +782,5 @@ api.bidmachine.io
 track-eu-a.bidmachine.io
 www.optimizely.com
 static.clvads.com
+
 
