@@ -129,6 +129,8 @@ cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
 sp.pluto.tv
 k.pluto.tv
 device-metrics-us.amazon.com
+https.web.diagnostic.networking.aws.dev
+ec2.web.ap-south-2.prod.diagnostic.networking.aws.dev
 unagi-eu.amazon.com
 d21m0ezw6fosyw.cloudfront.net
 ffs-provisioner-config.amazon-dss.com
@@ -250,6 +252,7 @@ ra8816eu02.magichue.net
 
 # Google
 chromesyncpasswords-pa.googleapis.com
+fonts.gstatic.com
 
 
 # Huawaii
@@ -780,6 +783,7 @@ api.bidmachine.io
 track-eu-a.bidmachine.io
 www.optimizely.com
 static.clvads.com
+
 
 
 
