@@ -137,6 +137,7 @@ ffs-provisioner-config.amazon-dss.com
 trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 tungsten-service.prod.eu.adsqtungsten.a9.amazon.dev
 cloudfront.web.us-east-1.prod.diagnostic.networking.aws.dev
+ec2.web.ap-east-1.prod.diagnostic.networking.aws.dev
 
 
 # spotify
@@ -781,6 +782,7 @@ api.bidmachine.io
 track-eu-a.bidmachine.io
 www.optimizely.com
 static.clvads.com
+
 
 
 
