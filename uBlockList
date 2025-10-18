@@ -40,17 +40,20 @@ youtube.com###thumbnail:style(border-radius: 0px !important)
 ! Miniatur-Rahmenradius (wie Startpage) https://www.reddit.com/r/youtube/comments/15yre5r/is_there_any_way_to_remove_the_rounded_corners_on/?tl=de
 www.youtube.com###fulfilled-layout > .ytd-ad-slot-renderer.style-scope
 ! YT hauptseite videoplatz werbung
+www.youtube.com###sponsor-button
+! YT mitglied werden knopf
+www.youtube.com###content-section
+! YT kanal anzeige bei video vorschlage platz neben video
+www.youtube.com###primary-entry
+#download button bei spaeter ansehen liste
 
 
-!!!!www.youtube.com###sponsor-button
+
 !!!!!www.youtube.com##ytd-menu-service-item-renderer.ytd-menu-popup-renderer.style-scope:nth-of-type(5)
 #nach oben verschieben bei spaeter ansehen liste
 !!!!!www.youtube.com##ytd-menu-service-item-renderer.ytd-menu-popup-renderer.style-scope:nth-of-type(6)
 #nach unten verschieben bei spaeter ansehen liste
-!!!!!www.youtube.com###primary-entry
-#download button  bei spaeter ansehen liste
 !www.youtube.com##.adguard-update-iframe
-!www.youtube.com###content-section
 !www.youtube.com###sf-banner-pro > div
 !www.youtube.com###sf-banner-pro
 !www.youtube.com###middle-row
@@ -263,7 +266,6 @@ www.chip.de##.Zt4Pwf9jD
 www.chip.de##aside.cac.mt-md > .align.Ad-hor-height.Ad
 www.chip.de##.em9jIZh1UKdy1
 on.fmoviesto.site###modalshare > .modal-dialog-centered.modal-dialog
-||www.gstatic.com/youtube/img/promos/growth/6ad5a99c727579634bc3e2fb67562a2621170bdd11578967392667be5a05c5e4_384x384.png$image
 www.imdb.com##.nas-light.nas-spacing.inline40-responsive-sidebar.slot_wrapper
 www.imdb.com##.inline20-page-background.ipc-page-background--baseAlt.ipc-page-background > .ipc-page-content-container--center.ipc-page-content-container > .nas-slot > .nas-dark.nas-spacing.slot_wrapper
 www.imdb.com##.eThMTS.sc-d0d23c7f-0 > .nas-slot > .nas-light.nas-spacing.slot_wrapper
