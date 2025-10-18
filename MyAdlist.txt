@@ -252,7 +252,6 @@ ra8816eu02.magichue.net
 
 # Google
 chromesyncpasswords-pa.googleapis.com
-fonts.gstatic.com
 
 
 # Huawaii
@@ -563,7 +562,6 @@ collect.analytics.unity3d.com
 adx.ads.vungle.com
 opsucht.net
 leak.sx
-suggestqueries-clients6.youtube.com
 datahub.ascora.de
 ad.71i.de
 reforged.gg
@@ -783,6 +781,7 @@ api.bidmachine.io
 track-eu-a.bidmachine.io
 www.optimizely.com
 static.clvads.com
+
 
 
 
