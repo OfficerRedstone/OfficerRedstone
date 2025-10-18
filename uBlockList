@@ -138,7 +138,6 @@ aternos.org###vCcXSyuCddRuVomknNbLNpIhqWVkcfWmS > div
 #aternos adblock blocker
 odysee.com##.claim-preview--premium-plus.claim-preview__wrapper--row.claim-preview__wrapper
 odysee.com##.featured-banner-wrapper
-w3-reporting.reddit.com
 www.amazon.de###sp-cc
 #amazon cookie einsteluzngen
 vidoza.net##.in-block
@@ -153,8 +152,6 @@ www.heise.de##.shadow-\[0px_-6px_9px_-7px_rgba\(125\,125\,125\,0\.45\)\].md\:px-
 #heise+ werbung
 www.giga.de###sp_message_container_730550
 #cookie einstellung
-trck.pix.twitch.prod-eu.turntable.sonic.advertising.amazon.dev
-#twitch
 www.kleinanzeigen.de##.login-overlay
 #kleinanzeigen hey anmelden bitte nachricht ehem. ebay kleinanzeigen
 www.kleinanzeigen.de###site-content > .align-center.l-container-row
@@ -181,18 +178,6 @@ www.mobile.de##.ixHhna.sc-papXJ
 www.mobile.de##.hyEWGY.sc-ftvSup
 www.mobile.de##.frmJSB.sc-iBkjds
 www.mobile.de##.dCRAkD.iHQVtS.sc-hKMtZM.sc-dkzDqf
-axelspringer.de
-adnxs.com
-greylabeldelivery.com
-bitmovin.com
-asadcdn.com
-doubleclick.net
-googletagmanager.com
-www.googletagmanager.com
-privacy-mgmt.com
-megafilm4k.com
-m.mamul.am
-lb.rtb.ads2.bid
 www.autobild.de##.superbannerBtfContainer
 www.heise.de##.i-amphtml-unresolved.amp-unresolved.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.inline-ad-1
 www.gta-5-forum.de##.nointelliTXT.postcontainer.postbitim.postbit
@@ -205,19 +190,14 @@ archive.org##.donate-body
 archive.org##.white-box
 archive.org##.chevron-color-default.chevron-image-white.background-default.template-chevron.js-donate-banner.row
 www.google.com##.qGXjvb
-sentry.io
-doubleclick.net
 www.reddit.com##.pointer-events-auto.border-tone-4.border-solid.border.shadow-md.duration-300.transition-opacity.pt-0.p-md.opacity-100.mx-0.my-md.rounded-sm.bg-ui-modalbackground.relative.block.z-\[2\].nd\:pb-2xl.nd\:visible
 www.netzwelt.de##._47e2b1
 www.netzwelt.de###_cp_backdrop
 www.twitch.tv##.bsRjSc.Layout-sc-1xcs6mc-0
 ||static-cdn.jtvnw.net/subs-image-assets/CharityBanner.png$image
-alteredsoftworks.com
-bf-ad.net
 www.chip.de##.uAFkXf6nuIg2
 www.chip.de##.X6D70eHWOkCJ
 www.chip.de##.aTtCs73ULCY0
-unpkg.com
 ||getbukkit.org/assets/img/Ramshardv2.gif$image
 getbukkit.org##div.container:nth-of-type(3)
 getbukkit.org##.col-md-offset-2.col-md-8 > .limit > [href] > .img-responsive.img-center
@@ -256,13 +236,10 @@ twitter.com##.r-yz1j6i.r-qo02w8.r-l5o3uw.css-1dbjc4n
 www.speedtest.net##.modal-overlay
 www.speedtest.net##.celebration-modal.modal-in-place.modal
 www.curseforge.com##.rev-container
-stroeerdigitalgroup.de
 www.chip.de##.YY02ETg0U
-delight-vr.com
 www.chip.de###M1 > ul > li
 www.chip.de##.is-hidden-md.is-hidden-sm.fb-col-lg-4 > ul
 ||accounts.google.com/gsi/iframe/select$subdocument
-static.doubleclick.net
 open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
 open.spotify.com##.tippy-content
 www.l-iz.de###eip-popup
@@ -301,17 +278,6 @@ www.twitch.tv##.cpXVwB.Layout-sc-1xcs6mc-0 > .kBtJDm.InjectLayout-sc-1i43xsx-0 >
 www.twitch.tv##.jLMcHY.Layout-sc-1xcs6mc-0
 orteil.dashnet.org###support > div > div
 veev.to##.bottom-center.player-video-av
-vouchercrush.com
-fluffycash.com
-afilliateapp.com
-v16-webapp-prime.tiktok.com
-p16-sign-useast2a.tiktokcdn.com
-p16-sign-va.tiktokcdn.com
-us.tiktok.com
-web-i18n.tiktok.com
-web-va.tiktok.com
-starling.tiktokv.eu
-libraweb.tiktokw.eu
 tarnkappe.info###traffective-ad-Skyscraper > .box
 tarnkappe.info##.around-aiCheXu1.around-desktop-ad
 tarnkappe.info##section.desktop-only:nth-of-type(2)
@@ -391,4 +357,3 @@ www.computerbild.de##.superbannerBtfContainer
 www.computerbild.de##.billboardBtfContainer
 www.amazon.de###cos-banner
 www.nexusmods.com##.sm\:block.p-4.bg-cover.border.rounded-lg.hidden.mt-4.bg-creator-weak.border-creator-subdued
-
