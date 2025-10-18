@@ -1,50 +1,21 @@
+# \     / /̅̅ ̅̅ ̅̅ ̅̅ \ !    ! ̅¯¯¯I¯¯¯ !    ! |¯¯¯¯¯\ |¯¯¯¯¯¯
+#  \   /  !    ! !    !    I    !    ! |     | |
+#   \ /   !    ! !    !    I    !    ! |-----< |------
+#    |    !    ! !    !    I    !    ! |     | |
+#    |    \____/ \____/    I    \____/ |_____/ |______
+
 www.youtube.com##.yt-simple-endpoint.ytd-display-ad-renderer.style-scope
 #videoplatz-werbung
-www.youtube.com###dismissible > .ytd-video-display-full-buttoned-renderer.style-scope
-#videoplatz-werbung.2
-# www.youtube.com##.sparkles-light-cta.ytd-item-section-renderer.style-scope
-#video-vorschlage-seite-bei-video-ad
 www.youtube.com##.ytd-ad-slot-renderer.style-scope > .ytd-page-top-ad-layout-renderer.style-scope
 #großerbanner-haupteite
-# www.youtube.com##.ytd-banner-promo-renderer.style-scope.ytd-banner-promo-renderer-background
-#großerbanner-haupteite2
-# www.youtube.com##ytd-compact-promoted-video-renderer.ytd-item-section-renderer.style-scope
-#video-vorschlage-seite-bei-video-ad
-# www.youtube.com###contents > .ytd-search-pyv-renderer.style-scope
-#video-vorschlage-seite-bei-video-suche
-# www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
-#shorts-vorschlage-seite-bei-video
-www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
-#shorts.video.hauptseite
-www.youtube.com###clarify-box > .ytd-watch-flexy.style-scope
-#yt-blauer-banner-unter-videos-z.b.crorona-info-teil.des-oeffentlichen-rechtlichen-fernsehns
-# www.youtube.com##.use-ellipsis.ytd-item-section-renderer.style-scope > .ytd-compact-radio-renderer.style-scope
-#video-vorschlage-seite-bei-video-mix-vom-kuenstler
 www.youtube.com##.sparkles-light-cta.ytd-in-feed-ad-layout-renderer.style-scope
 #video-vorschlage-seite-bei-video-ad
-# www.youtube.com###content > .ytd-rich-section-renderer.style-scope
-#strich bei shorts
-www.youtube.com###clarify-box
-#info box z.b. corona info, offentlich rechtliche info(lerrer.bereich)
 youtube.com###page-manager > ytd-browse.style-scope.ytd-page-manager:last-child > ytd-playlist-header-renderer.style-scope.ytd-browse:nth-child(7) > div.immersive-header-container.style-scope.ytd-playlist-header-renderer:last-child > div.immersive-header-background-wrapper.style-scope.ytd-playlist-header-renderer:first-child
 # abient bei späteransehen liste
 youtube.com###page-manager > ytd-browse.style-scope.ytd-page-manager:first-child > ytd-playlist-header-renderer.style-scope.ytd-browse:nth-child(7) > div.immersive-header-container.style-scope.ytd-playlist-header-renderer:last-child > div.immersive-header-background-wrapper.style-scope.ytd-playlist-header-renderer:first-child
 # abient bei späteransehen liste
 youtube.com###page-manager > ytd-browse.style-scope.ytd-page-manager:nth-child(3) > ytd-playlist-header-renderer.style-scope.ytd-browse:nth-child(7) > div.immersive-header-container.style-scope.ytd-playlist-header-renderer:last-child > div.immersive-header-background-wrapper.style-scope.ytd-playlist-header-renderer:first-child
 # abient bei späteransehen liste
-# www.youtube.com##.ytd-playlist-header-renderer.style-scope.immersive-header-gradient
-#späteransehen linke infoseite (nac unten verwischen mit schwarz)
-# www.youtube.com##.ytd-playlist-header-renderer.style-scope.immersive-header-background-wrapper
-#späteransehen linke infoseite (backround-farben.des.videos)
-# youtube.com###contents > ytd-recognition-shelf-renderer.style-scope.ytd-item-section-renderer
-# www.youtube.com##.ytd-menu-renderer.style-scope > yt-button-shape > .yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
-# www.youtube.com###companion > .ytd-companion-slot-renderer.style-scope
-www.youtube.com###foreground-content
-#großerbanner-haupteite.2.zwischen.videos
-# www.youtube.com##.ytd-in-feed-ad-layout-renderer.style-scope > .ytd-video-display-full-buttoned-renderer.style-scope
-# www.youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-ad-slot-renderer.style-scope
-||youtube.com/youtubei/v1/updated_metadata?key=
-||youtube.com/youtubei/v1/feedback?key=
 youtube.com###page-manager > ytd-browse.style-scope.ytd-page-manager:last-child > ytd-playlist-header-renderer.style-scope.ytd-browse:nth-child(7) > div.immersive-header-container.style-scope.ytd-playlist-header-renderer:last-child > div.immersive-header-background-wrapper.style-scope.ytd-playlist-header-renderer:first-child
 # abient bei spaeteransehen liste
 youtube.com###page-manager > ytd-browse.style-scope.ytd-page-manager:first-child > ytd-playlist-header-renderer.style-scope.ytd-browse:nth-child(7) > div.immersive-header-container.style-scope.ytd-playlist-header-renderer:last-child > div.immersive-header-background-wrapper.style-scope.ytd-playlist-header-renderer:first-child
@@ -59,48 +30,98 @@ www.youtube.com##ytd-merch-shelf-renderer.ytd-watch-flexy.style-scope
 #yt merch werbung
 www.youtube.com##.ytd-banner-promo-renderer.style-scope.ytd-banner-promo-renderer-background
 #großer banner hauptseite
-www.youtube.com###visible-content-wrapper
-#yt released der Wochhe
-www.youtube.com###show-more-button-container
-#yt released der Wochhe mehr anzeigen
-www.youtube.com###content > .ytd-rich-section-renderer.style-scope
-#yt wie hat dir das video gefallen
-www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
-#yt short remix bei videos neben video
 www.youtube.com##.ytd-in-feed-ad-layout-renderer.style-scope > .ytd-promoted-video-renderer.style-scope
 #yt ad bei yt suche
+youtube.com###ytd-player.ytd-watch-flexy:style(border-radius: 0px !important)
+! Player-Rahmenradius https://www.reddit.com/r/youtube/comments/15yre5r/is_there_any_way_to_remove_the_rounded_corners_on/?tl=de
+youtube.com##ytd-watch-flexy:style(border-radius: 0px !important)
+! Player-Rahmenradius https://www.reddit.com/r/youtube/comments/15yre5r/is_there_any_way_to_remove_the_rounded_corners_on/?tl=de
+youtube.com###thumbnail:style(border-radius: 0px !important)
+! Miniatur-Rahmenradius (wie Startpage) https://www.reddit.com/r/youtube/comments/15yre5r/is_there_any_way_to_remove_the_rounded_corners_on/?tl=de
+www.youtube.com###fulfilled-layout > .ytd-ad-slot-renderer.style-scope
+! YT hauptseite videoplatz werbung
+
+
+!!!!www.youtube.com###sponsor-button
+!!!!!www.youtube.com##ytd-menu-service-item-renderer.ytd-menu-popup-renderer.style-scope:nth-of-type(5)
+#nach oben verschieben bei spaeter ansehen liste
+!!!!!www.youtube.com##ytd-menu-service-item-renderer.ytd-menu-popup-renderer.style-scope:nth-of-type(6)
+#nach unten verschieben bei spaeter ansehen liste
+!!!!!www.youtube.com###primary-entry
+#download button  bei spaeter ansehen liste
+!www.youtube.com##.adguard-update-iframe
+!www.youtube.com###content-section
+!www.youtube.com###sf-banner-pro > div
+!www.youtube.com###sf-banner-pro
+!www.youtube.com###middle-row
 # music.youtube.com##tp-yt-paper-dialog.ytmusic-popup-container.style-scope
 #yt musik premium werbung
-www.youtube.com##.ytp-button.ytp-miniplayer-button
+!!!!!!www.youtube.com##.ytp-button.ytp-miniplayer-button
 #yt mini player button bei video
-www.youtube.com##.ytp-progress-bar-padding
+!!!!www.youtube.com##.ytp-progress-bar-padding
 #yt video fortschritts balken
-www.youtube.com##.ytp-timed-markers-container
+!!!!www.youtube.com##.ytp-timed-markers-container
 #yt video fortschritts balken
-www.youtube.com##.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--text.yt-spec-button-shape-next
+!!!!www.youtube.com##.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--text.yt-spec-button-shape-next
 #yt microfon button
-www.youtube.com###dismissible > .ytd-slimline-survey-renderer.style-scope
-# yt umgrage (wie hilfreich war diese empfehlung)
-youtube.com##.ytp-caption-window-container
+!!!!!www.youtube.com###dismissible > .ytd-slimline-survey-renderer.style-scope
+# yt umFrage (wie hilfreich war diese empfehlung)
+!!!!youtube.com##.ytp-caption-window-container
 # yt musik untertitel
-! Player-Rahmenradius https://www.reddit.com/r/youtube/comments/15yre5r/is_there_any_way_to_remove_the_rounded_corners_on/?tl=de
-youtube.com###ytd-player.ytd-watch-flexy:style(border-radius: 0px !important)
-youtube.com##ytd-watch-flexy:style(border-radius: 0px !important)
-! Miniatur-Rahmenradius (wie Startpage) https://www.reddit.com/r/youtube/comments/15yre5r/is_there_any_way_to_remove_the_rounded_corners_on/?tl=de
-youtube.com###thumbnail:style(border-radius: 0px !important)
-www.youtube.com###sponsor-button
-www.youtube.com##ytd-menu-service-item-renderer.ytd-menu-popup-renderer.style-scope:nth-of-type(5)
-#nach oben verschieben bei spaeter ansehen liste
-www.youtube.com##ytd-menu-service-item-renderer.ytd-menu-popup-renderer.style-scope:nth-of-type(6)
-#nach unten verschieben bei spaeter ansehen liste
-www.youtube.com###primary-entry
-#download button  bei spaeter ansehen liste
-www.youtube.com###fulfilled-layout > .ytd-ad-slot-renderer.style-scope
-www.youtube.com###middle-row
-www.youtube.com###sf-banner-pro > div
-www.youtube.com###sf-banner-pro
-www.youtube.com##.adguard-update-iframe
-www.youtube.com###content-section
+!!!!www.youtube.com###visible-content-wrapper
+#yt released der Wochhe
+!!!!www.youtube.com###show-more-button-container
+#yt released der Wochhe mehr anzeigen
+!!!!www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+#yt wie hat dir das video gefallen
+!!!!!www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+#yt short remix bei videos neben video
+!!!www.youtube.com###foreground-content
+#großerbanner-haupteite.2.zwischen.videos
+!!!||youtube.com/youtubei/v1/updated_metadata?key=
+!!!||youtube.com/youtubei/v1/feedback?key=
+!!!!www.youtube.com###clarify-box
+#info box z.b. corona info, offentlich rechtliche info(lerrer.bereich)
+!!!!!www.youtube.com###dismissible > .ytd-video-display-full-buttoned-renderer.style-scope
+#videoplatz-werbung.2
+!!!!www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
+#shorts.video.hauptseite
+!!!!www.youtube.com###clarify-box > .ytd-watch-flexy.style-scope
+#yt-blauer-banner-unter-videos-z.b.crorona-info-teil.des-oeffentlichen-rechtlichen-fernsehns
+# www.youtube.com##.use-ellipsis.ytd-item-section-renderer.style-scope > .ytd-compact-radio-renderer.style-scope
+#video-vorschlage-seite-bei-video-mix-vom-kuenstler
+
+
+  A    L        TTTTT
+ A A   L          T  
+AAAAA  L          T  
+A   A  L          T  
+A   A  LLLLL      T 
+
+# www.youtube.com##.sparkles-light-cta.ytd-item-section-renderer.style-scope
+# video-vorschlage-seite-bei-video-ad
+# www.youtube.com##.ytd-in-feed-ad-layout-renderer.style-scope > .ytd-video-display-full-buttoned-renderer.style-scope
+# www.youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-ad-slot-renderer.style-scope
+# www.youtube.com##.ytd-playlist-header-renderer.style-scope.immersive-header-gradient
+# späteransehen linke infoseite (nac unten verwischen mit schwarz)
+# www.youtube.com##.ytd-playlist-header-renderer.style-scope.immersive-header-background-wrapper
+# späteransehen linke infoseite (backround-farben.des.videos)
+# youtube.com###contents > ytd-recognition-shelf-renderer.style-scope.ytd-item-section-renderer
+# www.youtube.com##.ytd-menu-renderer.style-scope > yt-button-shape > .yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+# www.youtube.com###companion > .ytd-companion-slot-renderer.style-scope
+# www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+# strich bei shorts
+# www.youtube.com##.ytd-banner-promo-renderer.style-scope.ytd-banner-promo-renderer-background
+# großerbanner-haupteite2
+# www.youtube.com##ytd-compact-promoted-video-renderer.ytd-item-section-renderer.style-scope
+# video-vorschlage-seite-bei-video-ad
+# www.youtube.com###contents > .ytd-search-pyv-renderer.style-scope
+# video-vorschlage-seite-bei-video-suche
+# www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+# shorts-vorschlage-seite-bei-video
+
+
+
 
 
 
@@ -117,6 +138,7 @@ aternos.org###vCcXSyuCddRuVomknNbLNpIhqWVkcfWmS > div
 #aternos adblock blocker
 odysee.com##.claim-preview--premium-plus.claim-preview__wrapper--row.claim-preview__wrapper
 odysee.com##.featured-banner-wrapper
+w3-reporting.reddit.com
 www.amazon.de###sp-cc
 #amazon cookie einsteluzngen
 vidoza.net##.in-block
@@ -159,6 +181,18 @@ www.mobile.de##.ixHhna.sc-papXJ
 www.mobile.de##.hyEWGY.sc-ftvSup
 www.mobile.de##.frmJSB.sc-iBkjds
 www.mobile.de##.dCRAkD.iHQVtS.sc-hKMtZM.sc-dkzDqf
+axelspringer.de
+adnxs.com
+greylabeldelivery.com
+bitmovin.com
+asadcdn.com
+doubleclick.net
+googletagmanager.com
+www.googletagmanager.com
+privacy-mgmt.com
+megafilm4k.com
+m.mamul.am
+lb.rtb.ads2.bid
 www.autobild.de##.superbannerBtfContainer
 www.heise.de##.i-amphtml-unresolved.amp-unresolved.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.inline-ad-1
 www.gta-5-forum.de##.nointelliTXT.postcontainer.postbitim.postbit
@@ -171,14 +205,19 @@ archive.org##.donate-body
 archive.org##.white-box
 archive.org##.chevron-color-default.chevron-image-white.background-default.template-chevron.js-donate-banner.row
 www.google.com##.qGXjvb
+sentry.io
+doubleclick.net
 www.reddit.com##.pointer-events-auto.border-tone-4.border-solid.border.shadow-md.duration-300.transition-opacity.pt-0.p-md.opacity-100.mx-0.my-md.rounded-sm.bg-ui-modalbackground.relative.block.z-\[2\].nd\:pb-2xl.nd\:visible
 www.netzwelt.de##._47e2b1
 www.netzwelt.de###_cp_backdrop
 www.twitch.tv##.bsRjSc.Layout-sc-1xcs6mc-0
 ||static-cdn.jtvnw.net/subs-image-assets/CharityBanner.png$image
+alteredsoftworks.com
+bf-ad.net
 www.chip.de##.uAFkXf6nuIg2
 www.chip.de##.X6D70eHWOkCJ
 www.chip.de##.aTtCs73ULCY0
+unpkg.com
 ||getbukkit.org/assets/img/Ramshardv2.gif$image
 getbukkit.org##div.container:nth-of-type(3)
 getbukkit.org##.col-md-offset-2.col-md-8 > .limit > [href] > .img-responsive.img-center
@@ -204,6 +243,7 @@ www.videogameszone.de##.sidebar.videoModule
 www.roller.de##.Product__content > .t-h-full
 www.roller.de##div.promotionBanner.product-section-item > .product.productTeaser.Product > .Product__content
 bitreporter.de##.td_block_template_10.tdi_48.td-a-rec-id-custom-spot.td-a-rec.td-block > div
+d3aqoihi2n8ty8.cloudfront.net #twitch
 ||aternos.org/panel/img/replacements/exaroton-leaderbig.png$image
 aternos.org##.responsive-sky-scraper > .ad-replacement
 aternos.org##div.ad-dfp.mobile-full-width.responsive-leaderboard > .ad-replacement
@@ -216,10 +256,13 @@ twitter.com##.r-yz1j6i.r-qo02w8.r-l5o3uw.css-1dbjc4n
 www.speedtest.net##.modal-overlay
 www.speedtest.net##.celebration-modal.modal-in-place.modal
 www.curseforge.com##.rev-container
+stroeerdigitalgroup.de
 www.chip.de##.YY02ETg0U
+delight-vr.com
 www.chip.de###M1 > ul > li
 www.chip.de##.is-hidden-md.is-hidden-sm.fb-col-lg-4 > ul
 ||accounts.google.com/gsi/iframe/select$subdocument
+static.doubleclick.net
 open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
 open.spotify.com##.tippy-content
 www.l-iz.de###eip-popup
@@ -258,6 +301,17 @@ www.twitch.tv##.cpXVwB.Layout-sc-1xcs6mc-0 > .kBtJDm.InjectLayout-sc-1i43xsx-0 >
 www.twitch.tv##.jLMcHY.Layout-sc-1xcs6mc-0
 orteil.dashnet.org###support > div > div
 veev.to##.bottom-center.player-video-av
+vouchercrush.com
+fluffycash.com
+afilliateapp.com
+v16-webapp-prime.tiktok.com
+p16-sign-useast2a.tiktokcdn.com
+p16-sign-va.tiktokcdn.com
+us.tiktok.com
+web-i18n.tiktok.com
+web-va.tiktok.com
+starling.tiktokv.eu
+libraweb.tiktokw.eu
 tarnkappe.info###traffective-ad-Skyscraper > .box
 tarnkappe.info##.around-aiCheXu1.around-desktop-ad
 tarnkappe.info##section.desktop-only:nth-of-type(2)
@@ -322,8 +376,8 @@ www.imdb.com##.placeholder_inline60_size.placeholder_pattern
 www.twitch.tv##div.czRfnU.Layout-sc-1xcs6mc-0 > .Layout-sc-1xcs6mc-0 > .Layout-sc-1xcs6mc-0 > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .GOdqv.ScCoreButton-sc-ocjdkq-0
 #twitch turbo werbe buttpn neben profil
 www.twitch.tv##.hdoiLi.Layout-sc-1xcs6mc-0 > button
-#twitch story button
-twitch.tv##.channel-info-content > div > div > .cCWtZm.Layout-sc-1xcs6mc-0
+#twitch story button! 07.06.2025 https://www.twitch.tv
+www.twitch.tv##.channel-info-content > div > div > .cCWtZm.Layout-sc-1xcs6mc-0
 www.twitch.tv##.home-header-sticky.ePAsha.Layout-sc-1xcs6mc-0 > .ihSefD.Layout-sc-1xcs6mc-0
 www.twitch.tv##[src="https://panels.twitch.tv/panel-31021656-image-f46dde70-b67c-4b11-abcc-c5ad076569e4"]
 ||panels.twitch.tv/panel-31021656-image-f81e7086-10d2-4c1e-a6a1-3742238564d9$image
