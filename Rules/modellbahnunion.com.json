@@ -1,0 +1,52 @@
+{
+    "$schema": "https://raw.githubusercontent.com/cavi-au/Consent-O-Matic/master/rules.schema.json",
+    "modellbahnunion.com": {
+        "detectors": [
+            {
+                "presentMatcher": [
+                    {
+                        "type": "url",
+                        "url": [
+                            "modellbahnunion.com"
+                        ]
+                    }
+                ],
+                "showingMatcher": [
+                    {
+                        "type": "css",
+                        "target": {
+                            "selector": "###newCookieJar.w--100.w-max--68em.w-min_320px.no-print.hcenter-block.pos--f.p--b.infobox, ###cookie-jar"
+                        }
+                    }
+                ]
+            }
+        ],
+        "methods": [
+            {
+                "action": {
+                    "type": "waitcss",
+                    "retries": 10,
+                    "waitTime": 1
+                },
+                "name": "WAIT_FOR_BANNER"
+            },
+            {
+                "action": {
+                    "type": "multiclick",
+                    "target": {
+                        "selector": "##span.button_default.font--medium.big:nth-of-type(2)"
+                    }
+                },
+                "name": "CLICK_ALLOW_SELECTED_ONLY"
+            },
+            {
+                "action": {
+                    "type": "waitcss",
+                    "retries": 10,
+                    "waitTime": 1
+                },
+                "name": "WAIT_FOR_CONSENT"
+            }
+        ]
+    }
+}
