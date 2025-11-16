@@ -49,7 +49,13 @@ www.youtube.com###primary-entry
 
 !16.11.25
 www.youtube.com##.ytp-overlay-bottom-right
-!yt overlay button in video vollbild like dislike teilen komentrare
+#yt like, dislike, kommentare und teilen overlay im video unten rechts
+www.youtube.com###product-picker > .yt-live-chat-icon-toggle-button-renderer.style-scope
+! yt live chat spenden button im Chat
+www.youtube.com##.yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
+#yt erstellen button um Video hochzuladen
+www.youtube.com##.ytp-button.ytp-prev-button
+zum naechsten video springen bei video
 
 
 !!!!!www.youtube.com##ytd-menu-service-item-renderer.ytd-menu-popup-renderer.style-scope:nth-of-type(5)
@@ -96,6 +102,7 @@ www.youtube.com##.ytp-overlay-bottom-right
 #yt-blauer-banner-unter-videos-z.b.crorona-info-teil.des-oeffentlichen-rechtlichen-fernsehns
 # www.youtube.com##.use-ellipsis.ytd-item-section-renderer.style-scope > .ytd-compact-radio-renderer.style-scope
 #video-vorschlage-seite-bei-video-mix-vom-kuenstler
+
 
 
   A    L        TTTTT
@@ -367,3 +374,9 @@ www.nexusmods.com##.sm\:block.p-4.bg-cover.border.rounded-lg.hidden.mt-4.bg-crea
 chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-default.md\:items-center.shadow-xxs.dark\:border-transparent.lg\:mx-auto.\[text-wrap\:pretty\].text-sm.pe-3.ps-5.py-4.border.rounded-3xl.gap-4.items-start.w-full.flex
 #box über ein eingabefeld
 www.reddit.com##rpl-modal-card
+www.reddit.com###credential_picker_container
+bigwarp.pro##[href="https://candai.online/"]
+ryderjet.com##.jw-reset.jw-logo-top-left.jw-logo
+!Bigwarp logo im player 
+ghbrisk.com##.jw-reset.jw-hide.jw-logo-top-right.jw-logo
+!Bigwarp logo im player 
