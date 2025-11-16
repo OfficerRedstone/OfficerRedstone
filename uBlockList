@@ -47,6 +47,9 @@ www.youtube.com###content-section
 www.youtube.com###primary-entry
 #download button bei spaeter ansehen liste
 
+!16.11.25
+www.youtube.com##.ytp-overlay-bottom-right
+!yt overlay button in video vollbild like dislike teilen komentrare
 
 
 !!!!!www.youtube.com##ytd-menu-service-item-renderer.ytd-menu-popup-renderer.style-scope:nth-of-type(5)
@@ -359,3 +362,8 @@ www.computerbild.de##.superbannerBtfContainer
 www.computerbild.de##.billboardBtfContainer
 www.amazon.de###cos-banner
 www.nexusmods.com##.sm\:block.p-4.bg-cover.border.rounded-lg.hidden.mt-4.bg-creator-weak.border-creator-subdued
+
+!16.11.25
+chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-default.md\:items-center.shadow-xxs.dark\:border-transparent.lg\:mx-auto.\[text-wrap\:pretty\].text-sm.pe-3.ps-5.py-4.border.rounded-3xl.gap-4.items-start.w-full.flex
+#box über ein eingabefeld
+www.reddit.com##rpl-modal-card
