@@ -1,22 +1,22 @@
 {
     "$schema": "https://raw.githubusercontent.com/cavi-au/Consent-O-Matic/master/rules.schema.json",
-    "modellbahnunion.com": {
+    "modellbahnunion": {
         "detectors": [
             {
                 "presentMatcher": [
+                    {
+                        "type": "css",
+                        "target": {
+                            "selector": ".w--100.w-max--68em.w-min_320px.no-print.hcenter-block.pos--f.p--b.infobox"
+                        }
+                    }
+                ],
+                "showingMatcher": [
                     {
                         "type": "url",
                         "url": [
                             "modellbahnunion.com"
                         ]
-                    }
-                ],
-                "showingMatcher": [
-                    {
-                        "type": "css",
-                        "target": {
-                            "selector": "###newCookieJar.w--100.w-max--68em.w-min_320px.no-print.hcenter-block.pos--f.p--b.infobox, ###cookie-jar"
-                        }
                     }
                 ]
             }
@@ -24,28 +24,42 @@
         "methods": [
             {
                 "action": {
-                    "type": "waitcss",
-                    "retries": 10,
-                    "waitTime": 1
-                },
-                "name": "WAIT_FOR_BANNER"
-            },
-            {
-                "action": {
-                    "type": "multiclick",
+                    "type": "hide",
                     "target": {
-                        "selector": "##span.button_default.font--medium.big:nth-of-type(2)"
+                        "selector": ".w--100.w-max--68em.w-min_320px.no-print.hcenter-block.pos--f.p--b.infobox"
                     }
                 },
-                "name": "CLICK_ALLOW_SELECTED_ONLY"
+                "name": "HIDE_CMP"
+            },
+            {
+                "name": "OPEN_OPTIONS"
             },
             {
                 "action": {
-                    "type": "waitcss",
-                    "retries": 10,
-                    "waitTime": 1
+                    "type": "click",
+                    "target": {
+                        "selector": "span.button_default.font--medium.big:nth-of-type(2)",
+                        "textFilter": [
+                            "nur ausgewählte zulassen"
+                        ]
+                    }
                 },
-                "name": "WAIT_FOR_CONSENT"
+                "name": "DO_CONSENT"
+            },
+            {
+                "action": {
+                    "type": "click",
+                    "target": {
+                        "selector": "span.button_default.font--medium.big:nth-of-type(2)",
+                        "textFilter": [
+                            "nur ausgewählte zulassen"
+                        ]
+                    }
+                },
+                "name": "SAVE_CONSENT"
+            },
+            {
+                "name": "UTILITY"
             }
         ]
     }
