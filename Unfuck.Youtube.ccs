@@ -5,6 +5,7 @@
 @description  Entfernt jegliche Rundung von Playlist-Thumbnails, Popups und den Playlistrand auf YouTube (Hero, Übersicht, Sammlungen etc.)
 @author       Niklas
 ==/UserStyle== */
+
 /* ────────────────
      1. Playlist Hero-Thumbnail (großes Cover oben)
   ───────────────── */
@@ -93,4 +94,5 @@
 .yt-badge-shape--typography.yt-badge-shape--no-text.yt-badge-shape--default.yt-badge-shape {
     border-radius: 9999px !important;
 }
+
 
