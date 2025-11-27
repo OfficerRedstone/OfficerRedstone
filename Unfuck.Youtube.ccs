@@ -1,0 +1,95 @@
+/* ==UserStyle==
+@name         YouTube: Alle Playlist-Thumbnails, Popups und den Playlistrand ohne Rundung
+@namespace    userstyles.world
+@version      1.2.0
+@description  Entfernt jegliche Rundung von Playlist-Thumbnails, Popups und den Playlistrand auf YouTube (Hero, Übersicht, Sammlungen etc.)
+@author       Niklas
+==/UserStyle== */
+/* ────────────────
+     1. Playlist Hero-Thumbnail (großes Cover oben)
+  ───────────────── */
+  .ytd-playlist-header-renderer.style-scope.thumbnail-wrapper,
+  .ytd-hero-playlist-thumbnail-renderer.style-scope,
+  .ytd-hero-playlist-thumbnail-renderer.style-scope.image-wrapper,
+  .ytd-hero-playlist-thumbnail-renderer.style-scope.horizontally-centered-container,
+  .ytd-hero-playlist-thumbnail-renderer.style-scope #overlays,
+  .ytd-playlist-header-renderer.style-scope,
+  .ytd-hero-playlist-thumbnail-renderer.style-scope img,
+  .ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-large-round.ytp-ce-video.ytp-ce-element,/*vid. tumb. links oben*/
+  .ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-bottom-left-quad.ytp-ce-large-round.ytp-ce-video.ytp-ce-element,/*video tumbnail unten links bei video endcard*/
+  .ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-bottom-right-quad.ytp-ce-large-round.ytp-ce-video.ytp-ce-element,/*video tumbnail unten rechts bei video endcard*/
+  .ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-right-quad.ytp-ce-large-round.ytp-ce-video.ytp-ce-element,/*video tumbnail oben rechts bei video endcard*/
+  .ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-large-round.ytp-ce-playlist.ytp-ce-element,/*vid. playlist tumb. links oben*/
+  .ytd-playlist-header-renderer.style-scope.thumbnail-wrapper img {
+    border-radius: 0 !important;
+    overflow: hidden !important;
+  }
+
+  /* ────────────────
+     2. Thumbnails in Playlist-Listen (z.B. auf Playlistseite)
+  ───────────────── */
+  ytd-thumbnail.ytd-playlist-video-renderer,
+  ytd-thumbnail.ytd-playlist-panel-video-renderer,
+  ytd-thumbnail.ytd-compact-playlist-renderer,
+  ytd-thumbnail.ytd-grid-playlist-renderer,
+  ytd-thumbnail.ytd-rich-grid-media,
+  ytd-thumbnail img {
+    border-radius: 0 !important;
+  }
+
+  /* ────────────────
+     3. Thumbnails in Sammlungen (Collections) – neue UI-Struktur
+  ───────────────── */
+  .ytThumbnailViewModelImage,
+  .ytThumbnailViewModelLarge,
+  .ytCollectionThumbnailViewModelHost,
+  .ytCollectionThumbnailViewModelHostHasStacks,
+  .ytCollectionsStackHost,
+  .ytThumbnailViewModelHost,
+  .ytCoreImageLoaded,
+  .ytCoreImageContentModeScaleAspectFill,
+  .ytCoreImageFillParentWidth,
+  .ytCoreImageFillParentHeight,
+  .ytCoreImageHost,
+  .ytCoreImageLoaded img {
+    border-radius: 0 !important;
+    overflow: hidden !important;
+  }
+
+
+  /* ────────────────
+     3. YT ui elemente wieder Eckig
+  ───────────────── */
+.ytd-popup-container.style-scope,/*popup menu zb 3 punkte menü bei video*/
+.ytd-playlist-panel-renderer.style-scope,/*playlist anzeige neben video*/
+.ytdMiniplayerComponentContent,/*Mini Player*/
+.ytp-modern-videowall-still-image,/*thumbnails bei scroll menü Vollbild*/
+.ytd-watch-flexy.style-scope,/*live chat continer*/
+.ytSheetViewModelContextual.ytSheetViewModelHost,/*speichern unter container*/
+.ytSearchboxComponentSuggestionsContainerScrollable.ytSearchboxComponentSuggestionsContainerDark.ytSearchboxComponentSuggestionsContainer:nth-of-type(1),/*suchvorschläge menu*/
+.ytSearchboxComponentSuggestionsContainer.ytSearchboxComponentSuggestionsContainerDark.ytSearchboxComponentSuggestionsContainerScrollable,/*suchvorschläge menu*/
+.ytSearchboxComponentSuggestionsContainer,/*suchvorschläge menu*/
+.ytSearchboxComponentSuggestionsContainerDark,/*suchvorschläge menu*/
+.ytSearchboxComponentSuggestionsContainerScrollable,/*suchvorschläge menu*/
+.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-bottom-left-quad.ytp-ce-large-round.ytp-ce-playlist.ytp-ce-element,/*playlist cover bei endcard links unten*/
+.ytp-ce-size-1280.ytp-ce-bottom-right-quad.ytp-ce-large-round.ytp-ce-element-show.ytp-ce-playlist.ytp-ce-element,/*playlist cover bei endcard rechts unten*/
+.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-right-quad.ytp-ce-large-round.ytp-ce-playlist.ytp-ce-element,/*playlist cover bei endcard rechts mittig*/
+.ytp-ce-size-1920.ytp-ce-top-right-quad.ytp-ce-large-round.ytp-ce-element-show.ytp-ce-video.ytp-ce-element,/*vid. cover bei endcard rechts mittig vollbild*/
+.ytp-ce-size-1920.ytp-ce-bottom-right-quad.ytp-ce-large-round.ytp-ce-element-show.ytp-ce-video.ytp-ce-element,/*vid. cover bei endcard rechts unten vollbild*/
+.ytp-ce-size-1920.ytp-ce-top-left-quad.ytp-ce-large-round.ytp-ce-element-show.ytp-ce-video.ytp-ce-element,/*vid. cover bei endcard links oben vollbild*/
+.ytp-delhi-modern-contextmenu.ytp-contextmenu.ytp-popup,/*in video rechtsklick menü container*/
+.ytp-ce-size-1920.ytp-ce-bottom-left-quad.ytp-ce-large-round.ytp-ce-element-show.ytp-ce-video.ytp-ce-element{/*vid. cover bei endcard links unten vollbild*/
+    border-radius: 0 !important;
+  }
+
+
+  /* Optional: Bild direkt ansprechen */
+  img {
+    border-radius: 0 !important;
+  }
+
+
+  /* YT Verifikations haken hinter kanal Namen */
+.yt-badge-shape--typography.yt-badge-shape--no-text.yt-badge-shape--default.yt-badge-shape {
+    border-radius: 9999px !important;
+}
