@@ -399,6 +399,7 @@ consent.tvping-agf.com
 
 *.softonic.com
 *.malavida.com
+uptodown.com
 inconsistencygasdifficult.com
 hd.fmoviesto.site
 hazelmarks.com
@@ -782,6 +783,7 @@ api.bidmachine.io
 track-eu-a.bidmachine.io
 www.optimizely.com
 static.clvads.com
+
 
 
 
