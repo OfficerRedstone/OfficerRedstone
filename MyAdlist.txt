@@ -131,6 +131,8 @@ k.pluto.tv
 device-metrics-us.amazon.com
 https.web.diagnostic.networking.aws.dev
 ec2.web.ap-south-2.prod.diagnostic.networking.aws.dev
+ec2.web.eu-west-3.prod.diagnostic.networking.aws.dev
+*.prod.diagnostic.networking.aws.dev
 unagi-eu.amazon.com
 d21m0ezw6fosyw.cloudfront.net
 ffs-provisioner-config.amazon-dss.com
@@ -783,6 +785,7 @@ api.bidmachine.io
 track-eu-a.bidmachine.io
 www.optimizely.com
 static.clvads.com
+disabled.invalid
 
 
 
