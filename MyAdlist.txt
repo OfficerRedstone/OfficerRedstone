@@ -111,6 +111,7 @@ home-store-img.uniontech.com
 # amazon-Firetv+twitch
 amazon-adsystem.com
 trck.pix.twitch.prod-eu.turntable.sonic.advertising.amazon.dev
+trck.ahs.prod-eu.turntable.sonic.advertising.amazon.dev
 firetvcaptiveportal.com
 fireoscaptiveportal.com
 eu.prism.digital.amazon.dev
@@ -130,6 +131,7 @@ sp.pluto.tv
 k.pluto.tv
 device-metrics-us.amazon.com
 https.web.diagnostic.networking.aws.dev
+ec2.web.ap-east-1.prod.diagnostic.networking.aws.dev
 ec2.web.ap-south-1.prod.diagnostic.networking.aws.dev
 ec2.web.ap-south-2.prod.diagnostic.networking.aws.dev
 ec2.web.eu-west-1.prod.diagnostic.networking.aws.dev
@@ -142,7 +144,6 @@ ffs-provisioner-config.amazon-dss.com
 trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 tungsten-service.prod.eu.adsqtungsten.a9.amazon.dev
 cloudfront.web.us-east-1.prod.diagnostic.networking.aws.dev
-ec2.web.ap-east-1.prod.diagnostic.networking.aws.dev
 
 
 # spotify
@@ -789,6 +790,7 @@ track-eu-a.bidmachine.io
 www.optimizely.com
 static.clvads.com
 disabled.invalid
+
 
 
 
