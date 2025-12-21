@@ -134,9 +134,11 @@ https.web.diagnostic.networking.aws.dev
 ec2.web.ap-east-1.prod.diagnostic.networking.aws.dev
 ec2.web.ap-south-1.prod.diagnostic.networking.aws.dev
 ec2.web.ap-south-2.prod.diagnostic.networking.aws.dev
+ec2.web.ap-southeast-1.prod.diagnostic.networking.aws.dev
 ec2.web.eu-west-1.prod.diagnostic.networking.aws.dev
 ec2.web.eu-west-2.prod.diagnostic.networking.aws.dev
 ec2.web.eu-west-3.prod.diagnostic.networking.aws.dev
+
 *.prod.diagnostic.networking.aws.dev
 unagi-eu.amazon.com
 d21m0ezw6fosyw.cloudfront.net
@@ -790,6 +792,7 @@ track-eu-a.bidmachine.io
 www.optimizely.com
 static.clvads.com
 disabled.invalid
+
 
 
 
