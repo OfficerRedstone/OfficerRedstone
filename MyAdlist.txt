@@ -131,6 +131,7 @@ sp.pluto.tv
 k.pluto.tv
 device-metrics-us.amazon.com
 https.web.diagnostic.networking.aws.dev
+^([ec2\.lz]\.web\.[a-z]{2}-[a-z]+-\d{1}\.prod\.diagnostic\.networking\.aws\.dev)$
 ec2.web.ap-east-1.prod.diagnostic.networking.aws.dev
 ec2.web.ap-south-1.prod.diagnostic.networking.aws.dev
 ec2.web.ap-south-2.prod.diagnostic.networking.aws.dev
@@ -792,6 +793,7 @@ track-eu-a.bidmachine.io
 www.optimizely.com
 static.clvads.com
 disabled.invalid
+
 
 
 
