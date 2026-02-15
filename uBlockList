@@ -59,13 +59,14 @@ zum naechsten video springen bei video
 www.youtube.com###ryd-bar-container
 !balken der weiß grau gefärb ist anzeige verhältnis like dislike
 ! 15.02.2026 https://www.youtube.com
-www.youtube.com##.ytd-playlist-header-renderer.style-scope.immersive-header-background-wrapper
-#ambient bei späternasehen #brave
 www.youtube.com##.ytd-in-feed-ad-layout-renderer.style-scope
 #werbung hauptseeite brave
+www.youtube.com##.ytd-playlist-header-renderer.style-scope.immersive-header-background-wrapper
+#ambient bei späternasehen #brave
 www.youtube.com##.ytd-playlist-panel-video-renderer.style-scope > .ytd-thumbnail.style-scope.inline-block.yt-simple-endpoint:style(border-radius: 0px !important)
-#yt mini tubnails bei playlist (watch later) Brave
-
+#yt mini tubnails playlist übersicht neben video (watch later) Brave
+www.youtube.com###thumbnail > .ytd-thumbnail.style-scope.inline-block.yt-simple-endpoint:style(border-radius: 0px !important)
+#yt tubnails bei playlist (watch later) Brave
 
 
 
