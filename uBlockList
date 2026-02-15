@@ -63,7 +63,8 @@ www.youtube.com##.ytd-playlist-header-renderer.style-scope.immersive-header-back
 #ambient bei späternasehen #brave
 www.youtube.com##.ytd-in-feed-ad-layout-renderer.style-scope
 #werbung hauptseeite brave
-
+www.youtube.com##.ytd-playlist-panel-video-renderer.style-scope > .ytd-thumbnail.style-scope.inline-block.yt-simple-endpoint:style(border-radius: 0px !important)
+#yt mini tubnails bei playlist (watch later) Brave
 
 
 
