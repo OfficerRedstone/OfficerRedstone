@@ -46,7 +46,6 @@ www.youtube.com###content-section
 ! YT kanal anzeige bei video vorschlage platz neben video
 www.youtube.com###primary-entry
 #download button bei spaeter ansehen liste
-
 !16.11.25
 www.youtube.com##.ytp-overlay-bottom-right
 #yt like, dislike, kommentare und teilen overlay im video unten rechts
@@ -58,7 +57,7 @@ www.youtube.com##.ytp-button.ytp-prev-button
 zum naechsten video springen bei video
 www.youtube.com###ryd-bar-container
 !balken der weiß grau gefärb ist anzeige verhältnis like dislike
-! 15.02.2026 https://www.youtube.com
+! 15.02.2026
 www.youtube.com##.ytd-in-feed-ad-layout-renderer.style-scope
 #werbung hauptseeite brave
 www.youtube.com##.ytd-playlist-header-renderer.style-scope.immersive-header-background-wrapper
@@ -67,9 +66,41 @@ www.youtube.com##.ytd-playlist-panel-video-renderer.style-scope > .ytd-thumbnail
 #yt mini tubnails playlist übersicht neben video (watch later) Brave
 www.youtube.com###thumbnail > .ytd-thumbnail.style-scope.inline-block.yt-simple-endpoint:style(border-radius: 0px !important)
 #yt tubnails bei playlist (watch later) Brave
+!24.02.25
+www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
+#yt abbo feed relevanteste in groß
 
 
 
+
+
+  A    L        TTTTT
+ A A   L          T  
+AAAAA  L          T  
+A   A  L          T  
+A   A  LLLLL      T 
+
+# www.youtube.com##.sparkles-light-cta.ytd-item-section-renderer.style-scope
+# video-vorschlage-seite-bei-video-ad
+# www.youtube.com##.ytd-in-feed-ad-layout-renderer.style-scope > .ytd-video-display-full-buttoned-renderer.style-scope
+# www.youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-ad-slot-renderer.style-scope
+# www.youtube.com##.ytd-playlist-header-renderer.style-scope.immersive-header-gradient
+# späteransehen linke infoseite (nac unten verwischen mit schwarz)
+# www.youtube.com##.ytd-playlist-header-renderer.style-scope.immersive-header-background-wrapper
+# späteransehen linke infoseite (backround-farben.des.videos)
+# youtube.com###contents > ytd-recognition-shelf-renderer.style-scope.ytd-item-section-renderer
+# www.youtube.com##.ytd-menu-renderer.style-scope > yt-button-shape > .yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+# www.youtube.com###companion > .ytd-companion-slot-renderer.style-scope
+# www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+# strich bei shorts
+# www.youtube.com##.ytd-banner-promo-renderer.style-scope.ytd-banner-promo-renderer-background
+# großerbanner-haupteite2
+# www.youtube.com##ytd-compact-promoted-video-renderer.ytd-item-section-renderer.style-scope
+# video-vorschlage-seite-bei-video-ad
+# www.youtube.com###contents > .ytd-search-pyv-renderer.style-scope
+# video-vorschlage-seite-bei-video-suche
+# www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+# shorts-vorschlage-seite-bei-video
 !!!!!www.youtube.com##ytd-menu-service-item-renderer.ytd-menu-popup-renderer.style-scope:nth-of-type(5)
 #nach oben verschieben bei spaeter ansehen liste
 !!!!!www.youtube.com##ytd-menu-service-item-renderer.ytd-menu-popup-renderer.style-scope:nth-of-type(6)
@@ -114,36 +145,6 @@ www.youtube.com###thumbnail > .ytd-thumbnail.style-scope.inline-block.yt-simple-
 #yt-blauer-banner-unter-videos-z.b.crorona-info-teil.des-oeffentlichen-rechtlichen-fernsehns
 # www.youtube.com##.use-ellipsis.ytd-item-section-renderer.style-scope > .ytd-compact-radio-renderer.style-scope
 #video-vorschlage-seite-bei-video-mix-vom-kuenstler
-
-
-
-  A    L        TTTTT
- A A   L          T  
-AAAAA  L          T  
-A   A  L          T  
-A   A  LLLLL      T 
-
-# www.youtube.com##.sparkles-light-cta.ytd-item-section-renderer.style-scope
-# video-vorschlage-seite-bei-video-ad
-# www.youtube.com##.ytd-in-feed-ad-layout-renderer.style-scope > .ytd-video-display-full-buttoned-renderer.style-scope
-# www.youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-ad-slot-renderer.style-scope
-# www.youtube.com##.ytd-playlist-header-renderer.style-scope.immersive-header-gradient
-# späteransehen linke infoseite (nac unten verwischen mit schwarz)
-# www.youtube.com##.ytd-playlist-header-renderer.style-scope.immersive-header-background-wrapper
-# späteransehen linke infoseite (backround-farben.des.videos)
-# youtube.com###contents > ytd-recognition-shelf-renderer.style-scope.ytd-item-section-renderer
-# www.youtube.com##.ytd-menu-renderer.style-scope > yt-button-shape > .yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
-# www.youtube.com###companion > .ytd-companion-slot-renderer.style-scope
-# www.youtube.com###content > .ytd-rich-section-renderer.style-scope
-# strich bei shorts
-# www.youtube.com##.ytd-banner-promo-renderer.style-scope.ytd-banner-promo-renderer-background
-# großerbanner-haupteite2
-# www.youtube.com##ytd-compact-promoted-video-renderer.ytd-item-section-renderer.style-scope
-# video-vorschlage-seite-bei-video-ad
-# www.youtube.com###contents > .ytd-search-pyv-renderer.style-scope
-# video-vorschlage-seite-bei-video-suche
-# www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
-# shorts-vorschlage-seite-bei-video
 
 
 
@@ -394,4 +395,6 @@ ghbrisk.com##.jw-reset.jw-hide.jw-logo-top-right.jw-logo
 !Bigwarp logo im player 
 www.test.de##.cmpwrapper
 www.modellbahn-elstertrebnitz.de##.ngcookiewarningbottom.ngcookiewarning
-
+telekomhilft.telekom.de##.modal__container
+kinoger.p2pplay.pro##.jw-reset.jw-logo-top-right.jw-logo
+moflix-stream.xyz###usenet-cta
