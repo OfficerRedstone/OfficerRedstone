@@ -398,4 +398,21 @@ www.modellbahn-elstertrebnitz.de##.ngcookiewarningbottom.ngcookiewarning
 telekomhilft.telekom.de##.modal__container
 kinoger.p2pplay.pro##.jw-reset.jw-logo-top-right.jw-logo
 moflix-stream.xyz###usenet-cta
+
+!28.02.26
 search.brave.com###usage-metrics-notice
+www.netzwelt.de###main > .without-ad-label.ad
+www.netzwelt.de##.with-ad-label.ad.mw-rect
+www.netzwelt.de###aside > .without-ad-label.ad
+www.netzwelt.de###leftaside > .without-ad-label.ad
+www.netzwelt.de##div.inner-ad:nth-of-type(3)
+www.netzwelt.de##div.inner-ad:nth-of-type(6)
+www.netzwelt.de##.with-ad-label.ad.mb-20
+www.netzwelt.de##.mb-30.fjc-s.fd-r.d-f
+www.heise.de##.perf-cls-reduc-leaderboard
+www.reddit.com##rpl-modal-card
+www.reddit.com###t3_1rfj41q
+www.reddit.com##.block.relative.promotedlink
+search.brave.com###usage-metrics-notice
+addons.opera.com###overlay
+#opera werbung
