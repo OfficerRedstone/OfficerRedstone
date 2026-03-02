@@ -416,3 +416,7 @@ www.reddit.com##.block.relative.promotedlink
 search.brave.com###usage-metrics-notice
 addons.opera.com###overlay
 #opera werbung
+www.youtube.com###chat-container
+#yt chat fullbild
+www.youtube.com###panels-full-bleed-container
+#yt chat fullbild
