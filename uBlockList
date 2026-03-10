@@ -72,8 +72,11 @@ www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-render
 ! 07.03.2026
 www.youtube.com###panels-full-bleed-container
 #yt chat vollbild
-
-
+!10.03.26
+www.youtube.com###chat-container
+#yt chat vollbild
+www.youtube.com###panels-full-bleed-container
+#yt chat vollbild
 
 
   A    L        TTTTT
@@ -411,3 +414,8 @@ www.reddit.com##.block.relative.promotedlink
 search.brave.com###usage-metrics-notice
 addons.opera.com###overlay
 #opera werbung
+!10.03.26
+www.amazon.de##.pd_rd_r-ef5d5928-0532-4ae0-9275-0ef0e8454cd6.pd_rd_w-NaWrQ.pd_rd_wg-lvvG7.desktop-gateway-btf_a188d35c-77e4-4729-a086-075e38666a23.csm-placement-id-7498c84f-2793-47ef-9f07-5b4c169b0ee6.celwidget
+#amazon werbung auf hauptseite
+www.amazon.de##.pd_rd_r-d03e6c2c-0526-41d9-8fdb-ba2e63da2e1e.pd_rd_w-Te7Av.pd_rd_wg-YBVQH.desktop-gateway-btf_a188d35c-77e4-4729-a086-075e38666a23.csm-placement-id-7498c84f-2793-47ef-9f07-5b4c169b0ee6.celwidget
+#amazon werbung auf hauptseite
