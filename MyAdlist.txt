@@ -139,7 +139,9 @@ ec2.web.ap-southeast-1.prod.diagnostic.networking.aws.dev
 ec2.web.eu-west-1.prod.diagnostic.networking.aws.dev
 ec2.web.eu-west-2.prod.diagnostic.networking.aws.dev
 ec2.web.eu-west-3.prod.diagnostic.networking.aws.dev
-
+api.stores.eu-west-1.prod.paets.advertising.amazon.dev
+unagi-eu.amazon.com
+unagi.amazon.de
 *.prod.diagnostic.networking.aws.dev
 unagi-eu.amazon.com
 d21m0ezw6fosyw.cloudfront.net
@@ -227,6 +229,10 @@ xpaywalletcdn.azureedge.net
 telem-edge.smartscreen.microsoft.com
 cxcs.microsoft.net
 client.wns.windows.com
+gateway-outlook.bingviz.com
+api.theadex.com
+in.appcenter.ms
+
 
 #minecraft
 #api.minecraftservices.com
@@ -262,6 +268,8 @@ ra8816eu02.magichue.net
 
 # Google
 chromesyncpasswords-pa.googleapis.com
+pagead2.googlesyndication.com
+googleadservices.com
 
 
 # Huawaii
@@ -799,8 +807,7 @@ protrafficinspector.com
 preferencenail.com
 show-creative1.com
 weirdopt.com
-
-
+mobiletelemetry.ebay.cpm
 
 
 
