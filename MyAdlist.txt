@@ -820,3 +820,5 @@ crispyflowprotector.com
 tellihandlesexwr.org
 tukrd.com
 google-analytics.com
+firebase-settings.crashlytics.com
+in.appcenter.ms
