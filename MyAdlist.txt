@@ -822,3 +822,6 @@ tukrd.com
 google-analytics.com
 firebase-settings.crashlytics.com
 in.appcenter.ms
+web.facebook.com
+www.googletagmanager.com
+gateway.kleinanzeigen.de
