@@ -825,3 +825,4 @@ in.appcenter.ms
 web.facebook.com
 www.googletagmanager.com
 gateway.kleinanzeigen.de
+adstudio-assets.scdn.co
