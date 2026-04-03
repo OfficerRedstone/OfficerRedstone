@@ -826,3 +826,4 @@ web.facebook.com
 www.googletagmanager.com
 gateway.kleinanzeigen.de
 adstudio-assets.scdn.co
+provisioning-use2.mgmt.aibixby.com
