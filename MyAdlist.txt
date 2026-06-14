@@ -77,7 +77,6 @@ static.ads.brave.com
 
 # Domain Endings blocker
 .cn
-.ru
 .zip
 
 
