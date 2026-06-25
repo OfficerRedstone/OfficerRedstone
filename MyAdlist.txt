@@ -827,3 +827,4 @@ gateway.kleinanzeigen.de
 adstudio-assets.scdn.co
 provisioning-use2.mgmt.aibixby.com
 dd.insiad.com
+pgl.yoyo.org
