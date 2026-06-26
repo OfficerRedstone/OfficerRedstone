@@ -36,15 +36,15 @@ freedomphone.com
 
 
 # tiktok
-www.tiktok.com
-tiktok.com
-tiktokv.com
-tiktokcdn.com
+# www.tiktok.com
+# tiktok.com
+# tiktokv.com
+# tiktokcdn.com
 gts.byteoversea.net
 byteglb.com
 byteoversea.com
 mssdk-va.tiktok.com
-webcast.tiktok.com
+# webcast.tiktok.com
 v16-webapp-prime.tiktok.com
 p16-sign-useast2a.tiktokcdn.com
 p16-sign-va.tiktokcdn.com
@@ -828,3 +828,4 @@ adstudio-assets.scdn.co
 provisioning-use2.mgmt.aibixby.com
 dd.insiad.com
 pgl.yoyo.org
+geo.privacymanager.io
