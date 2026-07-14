@@ -149,6 +149,7 @@ trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 tungsten-service.prod.eu.adsqtungsten.a9.amazon.dev
 cloudfront.web.us-east-1.prod.diagnostic.networking.aws.dev
 api.mshop.bdtelemetry.amazon
+trace.mshopbugsnag.irm.amazon.dev
 
 
 # spotify
