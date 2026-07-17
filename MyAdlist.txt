@@ -833,3 +833,6 @@ provisioning-use2.mgmt.aibixby.com
 dd.insiad.com
 pgl.yoyo.org
 geo.privacymanager.io
+cell8011.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
+mdtb-cf-1.ads.aps.amazon-adsystem.com
+
