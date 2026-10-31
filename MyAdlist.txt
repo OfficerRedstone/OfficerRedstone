@@ -302,7 +302,8 @@ avcvysejs1-dsn.algolia.net
 ubistatic-a.ubisoft.com
 ubistatic2-a.ubisoft.com
 staticctf.ubisoft.com
-static3.cdn.ubi.com
+#static3.cdn.ubi.com
+#cloud fortschritt speicherung
 static-overlay.ubisoft.com
 cms-cache.ubisoft.com
 static-dm.ubisoft.com
