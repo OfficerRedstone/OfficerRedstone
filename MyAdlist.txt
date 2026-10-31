@@ -295,6 +295,17 @@ adsrv.ea.com
 
 # ubisoft
 data.ubi.com
+sst.ubisoft.com
+xely3u4lod-dsn.algolia.net
+avcvysejs1-dsn.algolia.net
+ubistatic-a.ubisoft.com
+ubistatic2-a.ubisoft.com
+staticctf.ubisoft.com
+static3.cdn.ubi.com
+static-overlay.ubisoft.com
+cms-cache.ubisoft.com
+static-dm.ubisoft.com
+nimbus.ubisoft.com
 
 
 # Epic Games
