@@ -152,6 +152,7 @@ api.mshop.bdtelemetry.amazon
 trace.mshopbugsnag.irm.amazon.dev
 session.mshopbugsnag.irm.amazon.dev
 global.telemetry.insights.video.a2z.com
+report.diagnostic.networking.aws.dev
 
 
 # spotify
