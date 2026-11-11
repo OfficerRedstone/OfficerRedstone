@@ -77,6 +77,11 @@ www.youtube.com###chat-container
 #yt chat vollbild
 www.youtube.com###panels-full-bleed-container
 #yt chat vollbild
+! 07.11.26
+www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
+#yt playables neben video seite
+
+
 
 
   A    L        TTTTT
@@ -150,6 +155,7 @@ A   A  LLLLL      T
 #yt-blauer-banner-unter-videos-z.b.crorona-info-teil.des-oeffentlichen-rechtlichen-fernsehns
 # www.youtube.com##.use-ellipsis.ytd-item-section-renderer.style-scope > .ytd-compact-radio-renderer.style-scope
 #video-vorschlage-seite-bei-video-mix-vom-kuenstler
+
 
 
 
@@ -419,3 +425,7 @@ www.amazon.de##.pd_rd_r-ef5d5928-0532-4ae0-9275-0ef0e8454cd6.pd_rd_w-NaWrQ.pd_rd
 #amazon werbung auf hauptseite
 www.amazon.de##.pd_rd_r-d03e6c2c-0526-41d9-8fdb-ba2e63da2e1e.pd_rd_w-Te7Av.pd_rd_wg-YBVQH.desktop-gateway-btf_a188d35c-77e4-4729-a086-075e38666a23.csm-placement-id-7498c84f-2793-47ef-9f07-5b4c169b0ee6.celwidget
 #amazon werbung auf hauptseite
+nswmara.com##.nsw-ad317-buttons
+nswvault.com##.py-4.gap-3.justify-center.items-center.flex-wrap.flex.ads-button-wrap
+nswvault.com##.gap-3.items-center.inline-flex.ads-button-wrap
+
